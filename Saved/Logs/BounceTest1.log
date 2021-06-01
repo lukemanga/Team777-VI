@@ -2494,3 +2494,255 @@ Purging the undo buffer...
 [2021.06.01-14.30.41:106][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.06.01-14.30.41:143][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
 [2021.06.01-14.30.41:195][234]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.06.01-14.34.16:792][529]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.01-14.34.16:801][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.01-14.34.16:802][529]PIE: New page: PIE session: SideScrollerExampleMap (1 Jun 2021, 16:34:16)
+[2021.06.01-14.34.16:802][529]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.01-14.34.16:815][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013401s)
+[2021.06.01-14.34.16:816][529]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.06.01-14.34.16:817][529]LogPlayLevel: PIE: World Init took: (0.001569s)
+[2021.06.01-14.34.16:817][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.015206s)
+[2021.06.01-14.34.16:829][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.06.01-14.34.16:831][529]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.06.01-14.34.16:831][529]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.01-14.34.16:831][529]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.01-14.34.16:831][529]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.01-14.34.16:831][529]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.01-14.34.16:831][529]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.01-14.34.16:831][529]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.01-14.34.16:831][529]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.01-14.34.16:831][529]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.01-14.34.16:832][529]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.01-14.34.16:832][529]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.01-14.34.16:836][529]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.01-14.34.16:836][529]LogAudioMixer: Display: 1: FrontRight
+[2021.06.01-14.34.16:985][529]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.06.01-14.34.16:986][529]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.01-14.34.16:986][529]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.01-14.34.16:986][529]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.01-14.34.16:986][529]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.01-14.34.16:986][529]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.01-14.34.16:986][529]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.01-14.34.17:005][529]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.01-14.34.17:005][529]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.01-14.34.17:005][529]LogInit: FAudioDevice initialized.
+[2021.06.01-14.34.17:005][529]LogAudio: Display: Audio Device (ID: 19) registered with world 'SideScrollerExampleMap'.
+[2021.06.01-14.34.17:039][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-14.34.17:040][529]LogLoad: Game class is 'GameModeBase'
+[2021.06.01-14.34.17:043][529]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2021.06.01-15.34.17
+[2021.06.01-14.34.17:043][529]LogWorld: Bringing up level for play took: 0.002706
+[2021.06.01-14.34.17:044][529]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.06.01-14.34.17:050][529]PIE: Server logged in
+[2021.06.01-14.34.17:051][529]PIE: Play in editor total start time 0.252 seconds.
+[2021.06.01-14.34.37:214][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-14.34.37:214][706]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.01-14.34.37:215][706]LogSlate: Window 'BounceTest1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.01-14.34.37:233][706]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-14.34.37:233][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-14.34.37:246][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.01-14.34.37:273][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-14.34.37:281][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-14.34.37:283][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-14.34.37:318][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.06.01-14.34.37:361][707]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.06.01-14.34.55:753][690]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Team777/CharacterBlueprint.CharacterBlueprint
+[2021.06.01-14.34.55:992][690]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 126 classes and 0 folders.
+[2021.06.01-14.34.57:866][690]LogSlate: Took 0.000998 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.01-14.34.58:045][691]LogSlate: Took 0.000849 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.01-14.38.38:618][884]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/SideScrollerBP/Team777/Meshes/Main_Character.Main_Character
+[2021.06.01-14.38.39:486][885]LogRenderer: Reallocating scene render targets to support 1532x792 Format 10 NumSamples 1 (Frame:1).
+[2021.06.01-14.38.43:111][170]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-14.38.43:111][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-14.39.09:415][ 70]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/SideScrollerBP/Team777/Meshes/Main_Character.Main_Character
+[2021.06.01-14.40.20:048][893]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-14.40.20:048][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-14.40.51:623][842]LogSlate: Window 'CharacterBlueprint' being destroyed
+[2021.06.01-14.40.51:643][842]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-14.40.51:643][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-14.41.45:453][164]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.01-14.41.45:461][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.01-14.41.45:462][164]PIE: New page: PIE session: SideScrollerExampleMap (1 Jun 2021, 16:41:45)
+[2021.06.01-14.41.45:462][164]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.01-14.41.45:473][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011573s)
+[2021.06.01-14.41.45:475][164]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.06.01-14.41.45:475][164]LogPlayLevel: PIE: World Init took: (0.001944s)
+[2021.06.01-14.41.45:476][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013784s)
+[2021.06.01-14.41.45:555][164]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.06.01-14.41.45:568][164]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.06.01-14.41.45:568][164]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.01-14.41.45:568][164]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.01-14.41.45:568][164]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.01-14.41.45:568][164]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.01-14.41.45:568][164]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.01-14.41.45:568][164]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.01-14.41.45:568][164]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.01-14.41.45:568][164]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.01-14.41.45:568][164]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.01-14.41.45:568][164]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.01-14.41.45:571][164]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.01-14.41.45:571][164]LogAudioMixer: Display: 1: FrontRight
+[2021.06.01-14.41.45:693][164]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.06.01-14.41.45:693][164]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.01-14.41.45:693][164]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.01-14.41.45:694][164]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.01-14.41.45:694][164]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.01-14.41.45:694][164]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.01-14.41.45:694][164]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.01-14.41.45:717][164]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.01-14.41.45:717][164]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.01-14.41.45:717][164]LogInit: FAudioDevice initialized.
+[2021.06.01-14.41.45:717][164]LogAudio: Display: Audio Device (ID: 20) registered with world 'SideScrollerExampleMap'.
+[2021.06.01-14.41.45:748][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-14.41.45:748][164]LogLoad: Game class is 'GameModeBase'
+[2021.06.01-14.41.45:751][164]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.06.01-15.41.45
+[2021.06.01-14.41.45:752][164]LogWorld: Bringing up level for play took: 0.002488
+[2021.06.01-14.41.45:752][164]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.06.01-14.41.45:757][164]PIE: Server logged in
+[2021.06.01-14.41.45:759][164]PIE: Play in editor total start time 0.299 seconds.
+[2021.06.01-14.42.00:437][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-14.42.00:438][903]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.01-14.42.00:438][903]LogSlate: Window 'BounceTest1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.01-14.42.00:446][903]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-14.42.00:447][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-14.42.00:455][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.01-14.42.00:478][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-14.42.00:512][903]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.01-14.42.00:512][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-14.42.00:514][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-14.42.00:569][903]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.06.01-14.42.00:604][904]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.06.01-14.42.03:314][181]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Team777/CharacterBlueprint.CharacterBlueprint
+[2021.06.01-14.42.19:816][114]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/SideScrollerBP/Team777/Level_HUD.Level_HUD
+[2021.06.01-14.42.29:145][828]BlueprintLog: New page: Compile Level_HUD
+[2021.06.01-14.42.29:160][828]LogBlueprint: Error: [AssetLog] C:\Users\Calv182\Documents\GitHub\Team777-VI\Content\SideScrollerBP\Team777\Level_HUD.uasset: [Compiler] In use pin  Player Health  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2021.06.01-14.42.29:214][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.06.01-14.42.29:865][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Team777/Level_HUD" FILE="../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Level_HUD.uasset" SILENT=true
+[2021.06.01-14.42.29:876][878]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level_HUD7A6B564442CE70BCA45667B77603D8FA.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Level_HUD.uasset'
+[2021.06.01-14.42.29:894][878]AssetCheck: New page: Asset Save: Level_HUD
+[2021.06.01-14.42.29:894][878]LogContentValidation: Display: Validating WidgetBlueprint /Game/SideScrollerBP/Team777/Level_HUD.Level_HUD
+[2021.06.01-14.42.35:544][277]BlueprintLog: New page: Compile Level_HUD
+[2021.06.01-14.42.35:548][277]LogBlueprint: Error: [AssetLog] C:\Users\Calv182\Documents\GitHub\Team777-VI\Content\SideScrollerBP\Team777\Level_HUD.uasset: [Compiler] In use pin  Player Health  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2021.06.01-14.42.35:607][277]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2021.06.01-14.42.36:171][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Team777/Level_HUD" FILE="../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Level_HUD.uasset" SILENT=true
+[2021.06.01-14.42.36:184][309]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level_HUDCC07BED34444C5AF00806E959446DC38.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Level_HUD.uasset'
+[2021.06.01-14.42.36:198][309]AssetCheck: New page: Asset Save: Level_HUD
+[2021.06.01-14.42.36:198][309]LogContentValidation: Display: Validating WidgetBlueprint /Game/SideScrollerBP/Team777/Level_HUD.Level_HUD
+[2021.06.01-14.43.21:407][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.06.01-14.43.21:451][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.01-14.43.21:472][608]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/SideScrollerExampleMap85A6852044B1313C8A9288A59E7E85B8.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.06.01-14.43.21:479][608]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.056
+[2021.06.01-14.43.21:495][608]AssetCheck: New page: Asset Save: SideScrollerExampleMap
+[2021.06.01-14.43.21:495][608]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.06.01-14.44.40:650][985]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.01-14.44.40:662][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.01-14.44.40:662][985]BlueprintLog: Warning: Blueprint failed to compile:  Level_HUD
+[2021.06.01-14.44.40:662][985]LogCustomDialog: Dialog displayed:
+[2021.06.01-14.44.53:094][985]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.06.01-14.44.54:876][ 99]LogSlate: Window 'Message Log' being destroyed
+[2021.06.01-14.44.54:886][ 99]LogSlate: Window 'Message Log' being destroyed
+[2021.06.01-14.45.22:968][ 63]BlueprintLog: New page: Compile Level_HUD
+[2021.06.01-14.45.22:983][ 63]LogBlueprint: Error: [AssetLog] C:\Users\Calv182\Documents\GitHub\Team777-VI\Content\SideScrollerBP\Team777\Level_HUD.uasset: [Compiler] In use pin  Player Health  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2021.06.01-14.45.23:015][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.06.01-14.45.23:719][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Team777/Level_HUD" FILE="../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Level_HUD.uasset" SILENT=true
+[2021.06.01-14.45.23:729][105]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level_HUDD48027F942E91D7217102890DBCC2471.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Level_HUD.uasset'
+[2021.06.01-14.45.23:742][105]AssetCheck: New page: Asset Save: Level_HUD
+[2021.06.01-14.45.23:742][105]LogContentValidation: Display: Validating WidgetBlueprint /Game/SideScrollerBP/Team777/Level_HUD.Level_HUD
+[2021.06.01-14.46.27:171][849]BlueprintLog: New page: Compile Level_HUD
+[2021.06.01-14.46.27:186][849]LogBlueprint: Error: [AssetLog] C:\Users\Calv182\Documents\GitHub\Team777-VI\Content\SideScrollerBP\Team777\Level_HUD.uasset: [Compiler] In use pin  Player Health  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2021.06.01-14.46.27:240][849]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2021.06.01-14.46.27:808][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Team777/Level_HUD" FILE="../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Level_HUD.uasset" SILENT=true
+[2021.06.01-14.46.27:819][880]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level_HUDB43C1BB143236067B7F881B13C09F583.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Level_HUD.uasset'
+[2021.06.01-14.46.27:833][880]AssetCheck: New page: Asset Save: Level_HUD
+[2021.06.01-14.46.27:833][880]LogContentValidation: Display: Validating WidgetBlueprint /Game/SideScrollerBP/Team777/Level_HUD.Level_HUD
+[2021.06.01-14.47.04:121][630]BlueprintLog: New page: Compile Level_HUD
+[2021.06.01-14.47.04:125][630]LogBlueprint: Error: [AssetLog] C:\Users\Calv182\Documents\GitHub\Team777-VI\Content\SideScrollerBP\Team777\Level_HUD.uasset: [Compiler] In use pin  Player Health  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2021.06.01-14.47.04:177][630]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.06.01-14.47.04:787][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Team777/Level_HUD" FILE="../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Level_HUD.uasset" SILENT=true
+[2021.06.01-14.47.04:797][666]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level_HUDC3EB87114F42954806CA3ABA2B54246E.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Level_HUD.uasset'
+[2021.06.01-14.47.04:812][666]AssetCheck: New page: Asset Save: Level_HUD
+[2021.06.01-14.47.04:812][666]LogContentValidation: Display: Validating WidgetBlueprint /Game/SideScrollerBP/Team777/Level_HUD.Level_HUD
+[2021.06.01-14.47.26:535][996]LogSlate: Took 0.002858 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.06.01-14.47.30:087][191]BlueprintLog: New page: Compile CharacterBlueprint
+[2021.06.01-14.47.30:158][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.06.01-14.47.30:868][216]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/CharacterBlueprintB87BC553420182157E1D708C9E25939B.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/CharacterBlueprint.uasset'
+[2021.06.01-14.47.30:883][216]AssetCheck: New page: Asset Save: CharacterBlueprint
+[2021.06.01-14.47.30:883][216]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/CharacterBlueprint.CharacterBlueprint
+[2021.06.01-14.47.32:876][331]BlueprintLog: New page: Compile Level_HUD
+[2021.06.01-14.47.32:922][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.06.01-14.47.33:565][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Team777/Level_HUD" FILE="../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Level_HUD.uasset" SILENT=true
+[2021.06.01-14.47.33:577][363]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level_HUD64823368414BB6BC0A991E8C3E2BC811.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Level_HUD.uasset'
+[2021.06.01-14.47.33:588][363]AssetCheck: New page: Asset Save: Level_HUD
+[2021.06.01-14.47.33:589][363]LogContentValidation: Display: Validating WidgetBlueprint /Game/SideScrollerBP/Team777/Level_HUD.Level_HUD
+[2021.06.01-14.47.34:087][393]BlueprintLog: New page: Compile Level_HUD
+[2021.06.01-14.47.34:147][393]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.06.01-14.47.46:130][ 84]BlueprintLog: New page: Compile Level_HUD
+[2021.06.01-14.47.46:178][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.06.01-14.47.46:596][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Team777/Level_HUD" FILE="../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Level_HUD.uasset" SILENT=true
+[2021.06.01-14.47.46:606][104]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level_HUDD159E67F426310E5D45411AC43FFF794.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Level_HUD.uasset'
+[2021.06.01-14.47.46:619][104]AssetCheck: New page: Asset Save: Level_HUD
+[2021.06.01-14.47.46:619][104]LogContentValidation: Display: Validating WidgetBlueprint /Game/SideScrollerBP/Team777/Level_HUD.Level_HUD
+[2021.06.01-14.48.04:101][132]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.01-14.48.04:109][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.01-14.48.04:109][132]PIE: New page: PIE session: SideScrollerExampleMap (1 Jun 2021, 16:48:04)
+[2021.06.01-14.48.04:109][132]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.01-14.48.04:121][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012690s)
+[2021.06.01-14.48.04:122][132]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.06.01-14.48.04:122][132]LogPlayLevel: PIE: World Init took: (0.001463s)
+[2021.06.01-14.48.04:122][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.014332s)
+[2021.06.01-14.48.04:157][132]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.06.01-14.48.04:160][132]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.06.01-14.48.04:160][132]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.01-14.48.04:160][132]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.01-14.48.04:160][132]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.01-14.48.04:160][132]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.01-14.48.04:160][132]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.01-14.48.04:160][132]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.01-14.48.04:160][132]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.01-14.48.04:160][132]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.01-14.48.04:160][132]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.01-14.48.04:160][132]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.01-14.48.04:163][132]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.01-14.48.04:163][132]LogAudioMixer: Display: 1: FrontRight
+[2021.06.01-14.48.04:310][132]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.06.01-14.48.04:311][132]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.01-14.48.04:311][132]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.01-14.48.04:311][132]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.01-14.48.04:311][132]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.01-14.48.04:312][132]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.01-14.48.04:312][132]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.01-14.48.04:329][132]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.01-14.48.04:329][132]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.01-14.48.04:329][132]LogInit: FAudioDevice initialized.
+[2021.06.01-14.48.04:329][132]LogAudio: Display: Audio Device (ID: 21) registered with world 'SideScrollerExampleMap'.
+[2021.06.01-14.48.04:356][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-14.48.04:357][132]LogLoad: Game class is 'GameModeBase'
+[2021.06.01-14.48.04:359][132]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2021.06.01-15.48.04
+[2021.06.01-14.48.04:359][132]LogWorld: Bringing up level for play took: 0.002014
+[2021.06.01-14.48.04:359][132]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.06.01-14.48.04:366][132]PIE: Server logged in
+[2021.06.01-14.48.04:370][132]PIE: Play in editor total start time 0.264 seconds.
+[2021.06.01-14.48.09:769][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-14.48.09:769][448]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.01-14.48.09:769][448]LogSlate: Window 'BounceTest1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.01-14.48.09:784][448]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-14.48.09:784][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-14.48.09:791][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.01-14.48.09:814][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-14.48.09:844][448]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.01-14.48.09:845][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-14.48.09:846][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-14.48.09:875][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.06.01-14.48.09:905][449]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.06.01-14.48.26:854][452]BlueprintLog: New page: Compile Level_HUD
+[2021.06.01-14.48.26:904][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.06.01-14.48.27:453][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Team777/Level_HUD" FILE="../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Level_HUD.uasset" SILENT=true
+[2021.06.01-14.48.27:464][478]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level_HUD7A99DA3C4E88170DCE0D3DB4F6979E96.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Level_HUD.uasset'
+[2021.06.01-14.48.27:477][478]AssetCheck: New page: Asset Save: Level_HUD
+[2021.06.01-14.48.27:477][478]LogContentValidation: Display: Validating WidgetBlueprint /Game/SideScrollerBP/Team777/Level_HUD.Level_HUD
+[2021.06.01-14.48.35:106][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.06.01-14.48.35:154][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.01-14.48.35:176][931]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/SideScrollerExampleMapA725C218437A4A2EBD693D8E190A098F.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.06.01-14.48.35:186][931]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.059
+[2021.06.01-14.48.35:200][931]AssetCheck: New page: Asset Save: SideScrollerExampleMap
+[2021.06.01-14.48.35:200][931]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.06.01-14.48.41:243][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
