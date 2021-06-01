@@ -1091,3 +1091,720 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.01-10.47.23:769][761]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/CharacterBlueprintB84543AA4F212F09281846948F0F1526.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/CharacterBlueprint.uasset'
 [2021.06.01-10.47.23:780][761]AssetCheck: New page: Asset Save: CharacterBlueprint
 [2021.06.01-10.47.23:780][761]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/CharacterBlueprint.CharacterBlueprint
+[2021.06.01-10.48.56:714][106]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.01-10.48.56:721][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.01-10.48.56:721][106]PIE: New page: PIE session: SideScrollerExampleMap (1 Jun 2021, 12:48:56)
+[2021.06.01-10.48.56:721][106]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.01-10.48.56:730][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008663s)
+[2021.06.01-10.48.56:731][106]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.06.01-10.48.56:731][106]LogPlayLevel: PIE: World Init took: (0.001411s)
+[2021.06.01-10.48.56:731][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.010244s)
+[2021.06.01-10.48.56:758][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.06.01-10.48.56:761][106]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.06.01-10.48.56:761][106]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.01-10.48.56:761][106]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.01-10.48.56:761][106]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.01-10.48.56:761][106]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.01-10.48.56:761][106]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.01-10.48.56:761][106]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.01-10.48.56:761][106]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.01-10.48.56:761][106]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.01-10.48.56:761][106]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.01-10.48.56:761][106]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.01-10.48.56:764][106]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.01-10.48.56:764][106]LogAudioMixer: Display: 1: FrontRight
+[2021.06.01-10.48.56:859][106]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.01-10.48.56:860][106]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.01-10.48.56:860][106]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.01-10.48.56:860][106]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.01-10.48.56:860][106]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.01-10.48.56:860][106]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.01-10.48.56:860][106]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.01-10.48.56:861][106]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.01-10.48.56:861][106]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.01-10.48.56:861][106]LogInit: FAudioDevice initialized.
+[2021.06.01-10.48.56:861][106]LogAudio: Display: Audio Device (ID: 4) registered with world 'SideScrollerExampleMap'.
+[2021.06.01-10.48.56:888][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-10.48.56:888][106]LogLoad: Game class is 'GameModeBase'
+[2021.06.01-10.48.56:891][106]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.06.01-11.48.56
+[2021.06.01-10.48.56:891][106]LogWorld: Bringing up level for play took: 0.001963
+[2021.06.01-10.48.56:891][106]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.06.01-10.48.56:896][106]PIE: Server logged in
+[2021.06.01-10.48.56:898][106]PIE: Play in editor total start time 0.18 seconds.
+[2021.06.01-10.48.58:571][296]LogBlueprintUserMessages: [SideScrollerCharacter_78] Left!
+[2021.06.01-10.48.59:071][356]LogBlueprintUserMessages: [SideScrollerCharacter_78] Right!
+[2021.06.01-10.49.01:064][595]LogBlueprintUserMessages: [SideScrollerCharacter_78] Right!
+[2021.06.01-10.49.01:864][691]LogBlueprintUserMessages: [SideScrollerCharacter_78] Can't jump right!
+[2021.06.01-10.49.01:914][697]LogBlueprintUserMessages: [ET4_SpikeBoi_2] Attack him now!
+[2021.06.01-10.49.02:231][735]LogBlueprintUserMessages: [SideScrollerCharacter_78] Left!
+[2021.06.01-10.49.02:914][817]LogBlueprintUserMessages: [ET4_SpikeBoi_2] Attack him now!
+[2021.06.01-10.49.02:956][822]LogBlueprintUserMessages: [SideScrollerCharacter_78] Left!
+[2021.06.01-10.49.03:741][916]LogBlueprintUserMessages: [ET4_SpikeBoi_2] You're out of range!
+[2021.06.01-10.49.03:916][937]LogBlueprintUserMessages: [ET4_SpikeBoi_2] You're out of range!
+[2021.06.01-10.49.03:916][937]LogBlueprintUserMessages: [ET4_SpikeBoi_2] You're out of range!
+[2021.06.01-10.49.04:058][954]LogBlueprintUserMessages: [SideScrollerCharacter_78] Right!
+[2021.06.01-10.49.04:116][961]LogBlueprintUserMessages: [ET4_SpikeBoi_2] Attack him now!
+[2021.06.01-10.49.05:316][105]LogBlueprintUserMessages: [ET4_SpikeBoi_2] Attack him now!
+[2021.06.01-10.49.05:492][126]LogBlueprintUserMessages: [SideScrollerCharacter_78] Right!
+[2021.06.01-10.49.05:492][126]LogBlueprintUserMessages: [ET4_SpikeBoi_2] You're out of range!
+[2021.06.01-10.49.05:859][170]LogBlueprintUserMessages: [ET4_SpikeBoi_2] You're out of range!
+[2021.06.01-10.49.06:317][225]LogBlueprintUserMessages: [ET4_SpikeBoi_2] Attack him now!
+[2021.06.01-10.49.06:450][241]LogBlueprintUserMessages: [SideScrollerCharacter_78] Left!
+[2021.06.01-10.49.06:734][275]LogBlueprintUserMessages: [ET4_SpikeBoi_2] You're out of range!
+[2021.06.01-10.49.07:243][336]LogBlueprintUserMessages: [ET4_SpikeBoi_2] You're out of range!
+[2021.06.01-10.49.07:317][345]LogBlueprintUserMessages: [ET4_SpikeBoi_2] Attack him now!
+[2021.06.01-10.49.07:535][371]LogBlueprintUserMessages: [SideScrollerCharacter_78] Left!
+[2021.06.01-10.49.07:611][380]LogBlueprintUserMessages: [ET4_SpikeBoi_2] You're out of range!
+[2021.06.01-10.49.08:352][469]LogBlueprintUserMessages: [SideScrollerCharacter_78] Right!
+[2021.06.01-10.49.09:064][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-10.49.09:064][549]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.01-10.49.09:065][549]LogSlate: Window 'BounceTest1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.01-10.49.09:069][549]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-10.49.09:069][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-10.49.09:078][549]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.01-10.49.09:083][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-10.49.09:106][549]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.01-10.49.09:107][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-10.49.09:108][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-10.49.09:141][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.06.01-10.49.09:157][550]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.06.01-10.49.41:172][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.06.01-10.49.41:214][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.06.01-10.49.41:233][235]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/SideScrollerExampleMapF1B20FFB4503BA14CAC6EB92CDD3C4D8.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.06.01-10.49.41:241][235]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.050
+[2021.06.01-10.49.41:256][235]AssetCheck: New page: Asset Save: SideScrollerExampleMap
+[2021.06.01-10.49.41:256][235]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.06.01-10.54.26:534][550]LogSlate: Window 'CharacterBlueprint' being destroyed
+[2021.06.01-10.54.26:546][550]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-10.54.26:546][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-10.55.35:180][980]LogEditorViewport: Clicking on Actor (LMB): Film_Reel_Blueprint_C (Film_Reel_Blueprint)
+[2021.06.01-10.55.36:209][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.01-10.55.37:176][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2021.06.01-10.55.37:794][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2021.06.01-10.56.01:158][ 24]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/SideScrollerBP/Team777/Level_HUD.Level_HUD
+[2021.06.01-10.56.46:433][647]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/SideScrollerBP/Team777/Material/popcorn_empty_Mat.popcorn_empty_Mat
+[2021.06.01-10.56.46:438][647]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0002 seconds. Added 3 classes and 0 folders.
+[2021.06.01-10.56.46:440][647]LogMaterial: Display: Missing cached shader map for material popcorn_empty_Mat, compiling. 
+[2021.06.01-10.56.46:688][647]LogMaterial: Display: Missing cached shader map for material popcorn_empty_Mat, compiling. 
+[2021.06.01-10.56.46:697][647]LogMaterial: Display: Missing cached shader map for material popcorn_empty_Mat, compiling. 
+[2021.06.01-10.56.46:707][647]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.01-10.56.46:712][647]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.06.01-10.56.46:712][647]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.06.01-10.56.46:712][647]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.06.01-10.56.46:712][647]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.06.01-10.56.46:712][647]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.06.01-10.56.46:712][647]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.01-10.56.46:712][647]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.06.01-10.56.46:712][647]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.01-10.56.47:528][655]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.06.01-10.56.47:549][656]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.06.01-10.56.47:877][672]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.06.01-10.56.47:900][673]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.06.01-10.56.47:900][673]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.06.01-10.56.48:248][690]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.06.01-10.56.48:248][690]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.06.01-10.56.48:248][690]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.01-10.56.48:248][690]MaterialEditorStats: Texture samplers: 3/16
+[2021.06.01-10.56.48:248][690]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.06.01-10.56.48:248][690]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.01-11.00.20:693][949]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Team777/CharacterBlueprint.CharacterBlueprint
+[2021.06.01-11.00.33:637][856]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.01-11.00.33:644][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.01-11.00.33:645][856]PIE: New page: PIE session: SideScrollerExampleMap (1 Jun 2021, 13:00:33)
+[2021.06.01-11.00.33:645][856]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.01-11.00.33:654][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008843s)
+[2021.06.01-11.00.33:655][856]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.06.01-11.00.33:655][856]LogPlayLevel: PIE: World Init took: (0.001356s)
+[2021.06.01-11.00.33:655][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.010384s)
+[2021.06.01-11.00.33:779][856]LogUObjectHash: Compacting FUObjectHashTables data took   6.44ms
+[2021.06.01-11.00.33:782][856]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.06.01-11.00.33:783][856]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.01-11.00.33:783][856]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.01-11.00.33:783][856]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.01-11.00.33:783][856]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.01-11.00.33:783][856]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.01-11.00.33:783][856]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.01-11.00.33:783][856]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.01-11.00.33:783][856]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.01-11.00.33:783][856]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.01-11.00.33:783][856]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.01-11.00.33:786][856]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.01-11.00.33:786][856]LogAudioMixer: Display: 1: FrontRight
+[2021.06.01-11.00.33:893][856]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.01-11.00.33:893][856]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.01-11.00.33:893][856]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.01-11.00.33:893][856]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.01-11.00.33:894][856]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.01-11.00.33:894][856]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.01-11.00.33:894][856]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.01-11.00.33:907][856]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.01-11.00.33:908][856]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.01-11.00.33:908][856]LogInit: FAudioDevice initialized.
+[2021.06.01-11.00.33:908][856]LogAudio: Display: Audio Device (ID: 5) registered with world 'SideScrollerExampleMap'.
+[2021.06.01-11.00.33:935][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-11.00.33:935][856]LogLoad: Game class is 'GameModeBase'
+[2021.06.01-11.00.33:937][856]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.06.01-12.00.33
+[2021.06.01-11.00.33:938][856]LogWorld: Bringing up level for play took: 0.002038
+[2021.06.01-11.00.33:938][856]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.06.01-11.00.33:943][856]PIE: Server logged in
+[2021.06.01-11.00.33:946][856]PIE: Play in editor total start time 0.303 seconds.
+[2021.06.01-11.00.38:046][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-11.00.38:046][269]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.01-11.00.38:046][269]LogSlate: Window 'BounceTest1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.01-11.00.38:053][269]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-11.00.38:054][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.00.38:062][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.01-11.00.38:083][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.00.38:124][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-11.00.38:125][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-11.00.38:191][269]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.06.01-11.00.38:217][270]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.06.01-11.00.51:518][291]BlueprintLog: New page: Compile CharacterBlueprint
+[2021.06.01-11.00.51:584][291]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.06.01-11.00.53:283][444]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.01-11.00.53:290][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.01-11.00.53:290][444]PIE: New page: PIE session: SideScrollerExampleMap (1 Jun 2021, 13:00:53)
+[2021.06.01-11.00.53:290][444]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.01-11.00.53:298][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007874s)
+[2021.06.01-11.00.53:299][444]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.06.01-11.00.53:299][444]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2021.06.01-11.00.53:299][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.009169s)
+[2021.06.01-11.00.53:332][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.06.01-11.00.53:333][444]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.06.01-11.00.53:333][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.01-11.00.53:333][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.01-11.00.53:333][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.01-11.00.53:333][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.01-11.00.53:333][444]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.01-11.00.53:333][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.01-11.00.53:333][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.01-11.00.53:333][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.01-11.00.53:334][444]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.01-11.00.53:334][444]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.01-11.00.53:336][444]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.01-11.00.53:336][444]LogAudioMixer: Display: 1: FrontRight
+[2021.06.01-11.00.53:439][444]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.01-11.00.53:441][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.01-11.00.53:441][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.01-11.00.53:441][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.01-11.00.53:441][444]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.01-11.00.53:441][444]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.01-11.00.53:441][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.01-11.00.53:452][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.01-11.00.53:452][444]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.01-11.00.53:452][444]LogInit: FAudioDevice initialized.
+[2021.06.01-11.00.53:452][444]LogAudio: Display: Audio Device (ID: 6) registered with world 'SideScrollerExampleMap'.
+[2021.06.01-11.00.53:476][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-11.00.53:476][444]LogLoad: Game class is 'GameModeBase'
+[2021.06.01-11.00.53:479][444]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.06.01-12.00.53
+[2021.06.01-11.00.53:479][444]LogWorld: Bringing up level for play took: 0.002122
+[2021.06.01-11.00.53:479][444]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.06.01-11.00.53:484][444]PIE: Server logged in
+[2021.06.01-11.00.53:486][444]PIE: Play in editor total start time 0.199 seconds.
+[2021.06.01-11.00.58:495][960]LogBlueprintUserMessages: [ET4_SpikeBoi_2] Attack him now!
+[2021.06.01-11.01.00:045][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-11.01.00:045][116]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.01-11.01.00:045][116]LogSlate: Window 'BounceTest1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.01-11.01.00:051][116]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-11.01.00:052][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.01.00:061][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.01-11.01.00:080][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.01.00:109][116]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.01-11.01.00:109][116]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-11.01.00:110][116]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-11.01.00:131][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.06.01-11.01.00:158][117]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.06.01-11.01.09:118][871]BlueprintLog: New page: Compile CharacterBlueprint
+[2021.06.01-11.01.09:183][871]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.06.01-11.01.09:729][896]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/CharacterBlueprintB651FD034217490104F985BE697B9361.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/CharacterBlueprint.uasset'
+[2021.06.01-11.01.09:741][896]AssetCheck: New page: Asset Save: CharacterBlueprint
+[2021.06.01-11.01.09:741][896]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/CharacterBlueprint.CharacterBlueprint
+[2021.06.01-11.01.16:518][485]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.01-11.01.16:525][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.01-11.01.16:525][485]PIE: New page: PIE session: SideScrollerExampleMap (1 Jun 2021, 13:01:16)
+[2021.06.01-11.01.16:525][485]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.01-11.01.16:533][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007912s)
+[2021.06.01-11.01.16:534][485]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.06.01-11.01.16:535][485]LogPlayLevel: PIE: World Init took: (0.001337s)
+[2021.06.01-11.01.16:535][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.009438s)
+[2021.06.01-11.01.16:568][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.06.01-11.01.16:570][485]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.06.01-11.01.16:570][485]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.01-11.01.16:570][485]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.01-11.01.16:570][485]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.01-11.01.16:570][485]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.01-11.01.16:570][485]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.01-11.01.16:570][485]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.01-11.01.16:570][485]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.01-11.01.16:570][485]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.01-11.01.16:571][485]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.01-11.01.16:571][485]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.01-11.01.16:573][485]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.01-11.01.16:573][485]LogAudioMixer: Display: 1: FrontRight
+[2021.06.01-11.01.16:674][485]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.01-11.01.16:674][485]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.01-11.01.16:674][485]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.01-11.01.16:674][485]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.01-11.01.16:674][485]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.01-11.01.16:674][485]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.01-11.01.16:674][485]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.01-11.01.16:687][485]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.01-11.01.16:687][485]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.01-11.01.16:687][485]LogInit: FAudioDevice initialized.
+[2021.06.01-11.01.16:687][485]LogAudio: Display: Audio Device (ID: 7) registered with world 'SideScrollerExampleMap'.
+[2021.06.01-11.01.16:711][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-11.01.16:711][485]LogLoad: Game class is 'GameModeBase'
+[2021.06.01-11.01.16:714][485]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.06.01-12.01.16
+[2021.06.01-11.01.16:714][485]LogWorld: Bringing up level for play took: 0.002236
+[2021.06.01-11.01.16:714][485]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.06.01-11.01.16:718][485]PIE: Server logged in
+[2021.06.01-11.01.16:720][485]PIE: Play in editor total start time 0.197 seconds.
+[2021.06.01-11.01.21:725][ 48]LogBlueprintUserMessages: [ET4_SpikeBoi_2] Attack him now!
+[2021.06.01-11.01.23:593][265]LogBlueprintUserMessages: [ET4_SpikeBoi_2] You're out of range!
+[2021.06.01-11.01.23:939][305]LogBlueprintUserMessages: [ET4_SpikeBoi_2] Attack him now!
+[2021.06.01-11.01.24:498][370]LogBlueprintUserMessages: [ET4_SpikeBoi_2] You're out of range!
+[2021.06.01-11.01.24:872][414]LogBlueprintUserMessages: [ET4_SpikeBoi_2] You're out of range!
+[2021.06.01-11.01.25:146][446]LogBlueprintUserMessages: [ET4_SpikeBoi_2] Attack him now!
+[2021.06.01-11.01.25:393][475]LogBlueprintUserMessages: [ET4_SpikeBoi_2] You're out of range!
+[2021.06.01-11.01.25:776][519]LogBlueprintUserMessages: [ET4_SpikeBoi_2] You're out of range!
+[2021.06.01-11.01.26:154][563]LogBlueprintUserMessages: [ET4_SpikeBoi_2] Attack him now!
+[2021.06.01-11.01.26:302][580]LogBlueprintUserMessages: [ET4_SpikeBoi_2] You're out of range!
+[2021.06.01-11.01.26:755][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-11.01.26:755][623]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.01-11.01.26:755][623]LogSlate: Window 'BounceTest1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.01-11.01.26:762][623]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-11.01.26:762][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.01.26:771][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.01-11.01.26:790][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.01.26:820][623]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.01-11.01.26:820][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-11.01.26:821][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-11.01.26:842][623]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.06.01-11.01.26:870][624]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.06.01-11.02.38:349][603]LogSlate: Took 0.002661 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.06.01-11.03.36:480][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.06.01-11.03.36:507][587]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/SideScrollerExampleMap_Auto1A5CF01D24B2AED8231F71CBFE6441EB4.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap'
+[2021.06.01-11.03.36:511][587]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.063
+[2021.06.01-11.03.36:511][587]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.063
+[2021.06.01-11.03.36:511][587]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Team777/Level_HUD] ([1] browsable assets)...
+[2021.06.01-11.03.36:511][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Team777/Level_HUD]
+[2021.06.01-11.03.36:520][587]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level_HUD_Auto18F10BC6E42473867BEB59F8BB045CCBB.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Autosaves/Game/SideScrollerBP/Team777/Level_HUD_Auto1.uasset'
+[2021.06.01-11.03.36:520][587]LogFileHelpers: Auto-saving content packages took 0.009
+[2021.06.01-11.06.38:259][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.06.01-11.06.38:310][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.06.01-11.06.38:329][335]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/SideScrollerExampleMap2A422FAB436500A367225A835C7BCF64.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.06.01-11.06.38:338][335]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.055
+[2021.06.01-11.06.38:338][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Team777/Level_HUD" FILE="../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Level_HUD.uasset" SILENT=true
+[2021.06.01-11.06.38:346][335]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level_HUDCA747A31405AD907CB805E99360CB565.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Level_HUD.uasset'
+[2021.06.01-11.06.38:358][335]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.01-11.06.38:358][335]LogContentValidation: Display: Validating WidgetBlueprint /Game/SideScrollerBP/Team777/Level_HUD.Level_HUD
+[2021.06.01-11.06.38:358][335]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.06.01-11.06.47:193][938]LogSlate: Window 'Message' being destroyed
+[2021.06.01-11.06.47:197][938]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/SideScrollerBP/Team777/Material/popcorn_empty_Mat.popcorn_empty_Mat
+(Selecting 'No' will cause all changes to be lost!)
+[2021.06.01-11.06.48:843][ 55]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-11.06.48:843][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.06.51:904][146]LogSlate: Window 'Message' being destroyed
+[2021.06.01-11.06.51:907][146]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/SideScrollerBP/Team777/Material/popcorn_empty_Mat.popcorn_empty_Mat
+(Selecting 'No' will cause all changes to be lost!)
+[2021.06.01-11.07.05:881][516]LogMaterial: Display: Missing cached shader map for material popcorn_empty_Mat, compiling. 
+[2021.06.01-11.07.05:902][516]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.06.01-11.07.05:902][516]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.06.01-11.07.05:902][516]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.06.01-11.07.05:902][516]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.06.01-11.07.05:902][516]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.06.01-11.07.05:902][516]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.01-11.07.05:902][516]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.06.01-11.07.05:902][516]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.01-11.07.06:604][556]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.06.01-11.07.07:862][661]LogMaterial: Display: Missing cached shader map for material popcorn_empty_Mat, compiling. 
+[2021.06.01-11.07.07:890][661]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.06.01-11.07.07:890][661]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.06.01-11.07.07:890][661]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.06.01-11.07.07:890][661]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.06.01-11.07.07:890][661]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.06.01-11.07.07:890][661]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.01-11.07.07:890][661]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.06.01-11.07.07:890][661]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.01-11.07.08:449][689]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.06.01-11.07.15:564][436]LogMaterial: Display: Missing cached shader map for material popcorn_empty_Mat, compiling. 
+[2021.06.01-11.07.15:571][436]LogMaterial: Display: Missing cached shader map for material popcorn_empty_Mat, compiling. 
+[2021.06.01-11.07.15:577][436]LogMaterial: Display: Missing cached shader map for material popcorn_empty_Mat, compiling. 
+[2021.06.01-11.07.15:605][437]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.06.01-11.07.15:606][437]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.06.01-11.07.15:606][437]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.06.01-11.07.15:606][437]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.06.01-11.07.15:606][437]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.06.01-11.07.15:606][437]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.01-11.07.15:606][437]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.06.01-11.07.15:606][437]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.01-11.07.16:174][466]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.06.01-11.07.16:619][492]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.06.01-11.07.16:619][492]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.06.01-11.07.16:619][492]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.01-11.07.16:619][492]MaterialEditorStats: Texture samplers: 3/16
+[2021.06.01-11.07.16:619][492]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.06.01-11.07.16:619][492]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.01-11.07.32:117][ 20]LogMaterial: Display: Missing cached shader map for material popcorn_empty_Mat, compiling. 
+[2021.06.01-11.07.32:148][ 20]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.01-11.07.32:162][ 21]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 30
+[2021.06.01-11.07.32:162][ 21]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2021.06.01-11.07.32:162][ 21]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 28
+[2021.06.01-11.07.32:162][ 21]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2021.06.01-11.07.32:162][ 21]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2021.06.01-11.07.32:162][ 21]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2021.06.01-11.07.32:162][ 21]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2021.06.01-11.07.32:162][ 21]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2021.06.01-11.07.32:461][ 34]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.06.01-11.07.32:483][ 35]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2021.06.01-11.07.32:654][ 41]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2021.06.01-11.07.32:654][ 41]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2021.06.01-11.07.32:696][ 42]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.06.01-11.07.32:696][ 42]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.06.01-11.07.32:755][ 45]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2021.06.01-11.07.32:956][ 54]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2021.06.01-11.07.32:956][ 54]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2021.06.01-11.07.33:002][ 56]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.06.01-11.07.33:116][ 61]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.06.01-11.07.33:260][ 68]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.06.01-11.07.33:260][ 68]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.01-11.07.33:260][ 68]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.06.01-11.07.33:459][ 78]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.06.01-11.07.33:505][ 80]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.06.01-11.07.33:632][ 86]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.06.01-11.07.33:676][ 88]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.06.01-11.07.33:741][ 91]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.06.01-11.07.33:818][ 95]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.06.01-11.07.33:819][ 95]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.06.01-11.07.33:931][101]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.06.01-11.07.34:505][132]MaterialEditorStats: Base pass shader: 123 instructions
+[2021.06.01-11.07.34:505][132]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2021.06.01-11.07.34:505][132]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.06.01-11.07.34:505][132]MaterialEditorStats: Texture samplers: 3/16
+[2021.06.01-11.07.34:505][132]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.06.01-11.07.34:505][132]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.01-11.07.37:872][451]LogMaterial: Display: Missing cached shader map for material popcorn_empty_Mat, compiling. 
+[2021.06.01-11.07.37:903][453]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2021.06.01-11.07.37:903][453]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2021.06.01-11.07.37:903][453]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.06.01-11.07.37:903][453]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2021.06.01-11.07.37:903][453]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.06.01-11.07.37:903][453]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.06.01-11.07.37:903][453]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.06.01-11.07.37:903][453]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2021.06.01-11.07.38:184][468]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2021.06.01-11.07.38:232][470]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2021.06.01-11.07.38:379][477]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2021.06.01-11.07.38:401][478]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2021.06.01-11.07.38:422][479]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.06.01-11.07.38:422][479]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.06.01-11.07.38:483][482]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.06.01-11.07.38:684][492]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.06.01-11.07.38:684][492]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.01-11.07.38:750][495]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.06.01-11.07.38:834][499]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.06.01-11.07.38:978][506]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.06.01-11.07.38:978][506]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.06.01-11.07.39:000][507]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.06.01-11.07.39:205][517]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.06.01-11.07.39:268][520]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.06.01-11.07.39:371][525]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.06.01-11.07.39:371][525]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.06.01-11.07.40:073][572]MaterialEditorStats: Base pass shader: 123 instructions
+[2021.06.01-11.07.40:073][572]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2021.06.01-11.07.40:073][572]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.06.01-11.07.40:073][572]MaterialEditorStats: Texture samplers: 3/16
+[2021.06.01-11.07.40:073][572]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.06.01-11.07.40:073][572]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.01-11.08.09:683][949]LogMaterial: Display: Missing cached shader map for material popcorn_empty_Mat, compiling. 
+[2021.06.01-11.08.09:695][949]LogMaterial: Display: Missing cached shader map for material popcorn_empty_Mat, compiling. 
+[2021.06.01-11.08.09:713][949]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2021.06.01-11.08.09:713][949]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2021.06.01-11.08.09:713][949]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.06.01-11.08.09:713][949]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2021.06.01-11.08.09:713][949]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.06.01-11.08.09:713][949]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.06.01-11.08.09:713][949]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.06.01-11.08.09:713][949]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2021.06.01-11.08.09:716][949]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.01-11.08.10:218][976]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.06.01-11.08.10:240][977]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2021.06.01-11.08.10:370][983]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2021.06.01-11.08.10:391][984]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2021.06.01-11.08.10:413][985]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.06.01-11.08.10:433][986]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.06.01-11.08.10:525][990]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2021.06.01-11.08.10:681][995]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2021.06.01-11.08.10:722][996]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2021.06.01-11.08.10:758][998]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.06.01-11.08.10:780][999]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.06.01-11.08.10:984][  8]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.06.01-11.08.10:984][  8]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.06.01-11.08.10:984][  8]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.06.01-11.08.11:245][ 20]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.06.01-11.08.11:245][ 20]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.06.01-11.08.11:327][ 24]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.06.01-11.08.11:409][ 28]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.06.01-11.08.11:430][ 29]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.06.01-11.08.11:530][ 34]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.06.01-11.08.11:569][ 36]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.01-11.08.11:645][ 40]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.06.01-11.08.12:261][ 72]MaterialEditorStats: Base pass shader: 123 instructions
+[2021.06.01-11.08.12:261][ 72]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2021.06.01-11.08.12:261][ 72]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.06.01-11.08.12:261][ 72]MaterialEditorStats: Texture samplers: 3/16
+[2021.06.01-11.08.12:261][ 72]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.06.01-11.08.12:261][ 72]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.01-11.08.15:216][249]LogMaterial: Display: Missing cached shader map for material popcorn_empty_Mat, compiling. 
+[2021.06.01-11.08.15:237][250]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2021.06.01-11.08.15:237][250]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2021.06.01-11.08.15:237][250]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.06.01-11.08.15:237][250]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2021.06.01-11.08.15:237][250]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.06.01-11.08.15:237][250]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.06.01-11.08.15:237][250]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.06.01-11.08.15:237][250]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2021.06.01-11.08.15:550][265]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2021.06.01-11.08.15:574][266]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2021.06.01-11.08.15:719][273]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2021.06.01-11.08.15:740][274]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2021.06.01-11.08.15:740][274]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.06.01-11.08.15:761][275]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.06.01-11.08.15:859][280]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.06.01-11.08.16:024][287]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.06.01-11.08.16:049][288]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.01-11.08.16:112][291]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.06.01-11.08.16:155][293]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.06.01-11.08.16:317][301]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.06.01-11.08.16:338][302]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.06.01-11.08.16:338][302]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.06.01-11.08.16:608][315]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.06.01-11.08.16:608][315]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.06.01-11.08.16:672][318]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.06.01-11.08.16:772][323]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.06.01-11.08.17:427][361]MaterialEditorStats: Base pass shader: 123 instructions
+[2021.06.01-11.08.17:428][361]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2021.06.01-11.08.17:428][361]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.06.01-11.08.17:428][361]MaterialEditorStats: Texture samplers: 3/16
+[2021.06.01-11.08.17:428][361]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.06.01-11.08.17:428][361]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.01-11.08.24:250][770]LogMaterial: Display: Missing cached shader map for material popcorn_empty_Mat, compiling. 
+[2021.06.01-11.08.24:267][770]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2021.06.01-11.08.24:267][770]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2021.06.01-11.08.24:267][770]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.06.01-11.08.24:267][770]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2021.06.01-11.08.24:267][770]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.06.01-11.08.24:267][770]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.06.01-11.08.24:267][770]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.06.01-11.08.24:267][770]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2021.06.01-11.08.24:269][770]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.01-11.08.24:579][786]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.06.01-11.08.24:602][787]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2021.06.01-11.08.24:748][794]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2021.06.01-11.08.24:768][795]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.06.01-11.08.24:768][795]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.06.01-11.08.24:793][796]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.06.01-11.08.24:892][801]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2021.06.01-11.08.25:059][809]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2021.06.01-11.08.25:080][810]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2021.06.01-11.08.25:143][813]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.06.01-11.08.25:187][815]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.06.01-11.08.25:352][823]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.06.01-11.08.25:373][824]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.06.01-11.08.25:373][824]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.06.01-11.08.25:629][836]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.06.01-11.08.25:672][838]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.06.01-11.08.25:779][843]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.06.01-11.08.25:842][846]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.06.01-11.08.25:863][847]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.06.01-11.08.25:938][851]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.06.01-11.08.25:975][853]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.06.01-11.08.26:048][857]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.06.01-11.08.26:665][890]MaterialEditorStats: Base pass shader: 123 instructions
+[2021.06.01-11.08.26:665][890]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2021.06.01-11.08.26:665][890]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.06.01-11.08.26:665][890]MaterialEditorStats: Texture samplers: 3/16
+[2021.06.01-11.08.26:665][890]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.06.01-11.08.26:665][890]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.01-11.08.37:006][510]LogMaterial: Display: Missing cached shader map for material popcorn_empty_Mat, compiling. 
+[2021.06.01-11.08.37:019][510]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.01-11.08.37:033][511]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 30
+[2021.06.01-11.08.37:033][511]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2021.06.01-11.08.37:033][511]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 28
+[2021.06.01-11.08.37:033][511]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2021.06.01-11.08.37:033][511]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2021.06.01-11.08.37:033][511]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2021.06.01-11.08.37:033][511]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2021.06.01-11.08.37:033][511]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2021.06.01-11.08.37:345][527]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.06.01-11.08.37:345][527]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2021.06.01-11.08.37:507][534]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2021.06.01-11.08.37:536][535]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2021.06.01-11.08.37:536][535]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2021.06.01-11.08.37:536][535]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.06.01-11.08.37:639][540]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2021.06.01-11.08.37:813][548]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2021.06.01-11.08.37:813][548]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2021.06.01-11.08.37:901][552]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.06.01-11.08.37:945][554]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.06.01-11.08.38:095][561]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.06.01-11.08.38:116][562]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.01-11.08.38:117][562]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.06.01-11.08.38:349][573]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.06.01-11.08.38:370][574]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.06.01-11.08.38:456][578]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.06.01-11.08.38:543][582]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.06.01-11.08.38:563][583]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.06.01-11.08.38:661][588]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.06.01-11.08.38:680][589]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.06.01-11.08.38:735][592]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.06.01-11.08.39:337][623]MaterialEditorStats: Base pass shader: 123 instructions
+[2021.06.01-11.08.39:337][623]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2021.06.01-11.08.39:337][623]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.06.01-11.08.39:337][623]MaterialEditorStats: Texture samplers: 3/16
+[2021.06.01-11.08.39:337][623]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.06.01-11.08.39:337][623]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.01-11.15.46:413][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.06.01-11.15.53:875][401]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.01-11.15.59:088][401]LogSlate: Window 'Message' being destroyed
+[2021.06.01-11.15.59:097][401]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/SideScrollerBP/Team777/Material/popcorn_empty_Mat.popcorn_empty_Mat
+(Selecting 'No' will cause all changes to be lost!)
+[2021.06.01-11.15.59:559][401]LogMaterial: Display: Missing cached shader map for material popcorn_empty_Mat, compiling. 
+[2021.06.01-11.15.59:607][401]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2021.06.01-11.15.59:607][401]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2021.06.01-11.15.59:607][401]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.06.01-11.15.59:607][401]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2021.06.01-11.15.59:607][401]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.06.01-11.15.59:607][401]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.06.01-11.15.59:607][401]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.06.01-11.15.59:607][401]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2021.06.01-11.15.59:614][401]LogMaterial: Display: Missing cached shader map for material popcorn_empty_Mat, compiling. 
+[2021.06.01-11.15.59:671][401]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.06.01-11.15.59:677][401]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.01-11.16.00:238][401]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 53
+[2021.06.01-11.16.00:238][401]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 52
+[2021.06.01-11.16.00:238][401]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 51
+[2021.06.01-11.16.00:238][401]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 50
+[2021.06.01-11.16.00:238][401]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 49
+[2021.06.01-11.16.00:238][401]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 48
+[2021.06.01-11.16.00:238][401]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 47
+[2021.06.01-11.16.00:238][401]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 46
+[2021.06.01-11.16.00:238][401]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 45
+[2021.06.01-11.16.00:788][401]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 44
+[2021.06.01-11.16.00:788][401]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 43
+[2021.06.01-11.16.00:788][401]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 42
+[2021.06.01-11.16.00:788][401]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 41
+[2021.06.01-11.16.00:788][401]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 40
+[2021.06.01-11.16.00:788][401]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 39
+[2021.06.01-11.16.00:788][401]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 38
+[2021.06.01-11.16.00:788][401]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 37
+[2021.06.01-11.16.00:788][401]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 36
+[2021.06.01-11.16.00:788][401]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 35
+[2021.06.01-11.16.00:788][401]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2021.06.01-11.16.00:788][401]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 33
+[2021.06.01-11.16.00:788][401]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 28
+[2021.06.01-11.16.01:051][401]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2021.06.01-11.16.01:051][401]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.06.01-11.16.01:051][401]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2021.06.01-11.16.01:051][401]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2021.06.01-11.16.01:059][401]TextureStreamingBuild: Display: Compiling optional shaders took 1.388 seconds.
+[2021.06.01-11.16.01:106][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.06.01-11.16.01:215][401]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.06.01-11.16.01:215][401]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-11.16.01:215][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.16.01:244][401]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.06.01-11.16.01:244][401]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/SideScrollerBP/Team777/Material/popcorn_empty_Mat.popcorn_empty_Mat
+[2021.06.01-11.16.02:058][401]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.06.01-11.16.02:058][401]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.06.01-11.16.02:058][401]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.06.01-11.16.02:063][401]LogMaterial: Display: Missing cached shader map for material popcorn_empty_Mat, compiling. 
+[2021.06.01-11.16.02:078][401]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.06.01-11.16.02:081][401]LogMaterial: Display: Missing cached shader map for material popcorn_empty_Mat, compiling. 
+[2021.06.01-11.16.02:110][401]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.06.01-11.16.02:153][401]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2021.06.01-11.16.02:161][401]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2021.06.01-11.16.02:199][401]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2021.06.01-11.16.02:199][401]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2021.06.01-11.16.02:232][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.06.01-11.16.02:388][407]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2021.06.01-11.16.02:478][410]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2021.06.01-11.16.02:530][412]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2021.06.01-11.16.02:584][415]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2021.06.01-11.16.02:585][415]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2021.06.01-11.16.02:668][420]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2021.06.01-11.16.02:786][427]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2021.06.01-11.16.02:810][428]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2021.06.01-11.16.02:841][430]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.06.01-11.16.02:858][431]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.06.01-11.16.02:907][434]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2021.06.01-11.16.02:958][437]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.06.01-11.16.02:992][439]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2021.06.01-11.16.03:026][441]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.06.01-11.16.03:111][446]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.06.01-11.16.03:293][457]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.06.01-11.16.03:317][458]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2021.06.01-11.16.03:332][459]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.06.01-11.16.03:365][461]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.06.01-11.16.03:464][467]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.06.01-11.16.03:632][477]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.06.01-11.16.03:699][481]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.06.01-11.16.03:750][484]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.06.01-11.16.03:750][484]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.06.01-11.16.03:782][486]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.01-11.16.03:862][491]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.06.01-11.16.05:913][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.06.01-11.16.06:869][608]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.01-11.16.06:937][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.06.01-11.16.06:970][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.06.01-11.16.06:993][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.06.01-11.23.40:434][988]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Calv182/Creative Cloud Files/popcorn - Full.png)
+[2021.06.01-11.23.40:446][988]LogTexture: Display: Building textures: popcorn_-_Full (BGRA8, 1024X363)
+[2021.06.01-11.23.48:899][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.06.01-11.23.50:022][484]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.01-11.23.50:076][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.06.01-11.24.02:905][248]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.06.01-11.24.05:206][248]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.01-11.24.05:433][248]LogSlate: Window 'Level_HUD' being destroyed
+[2021.06.01-11.24.05:446][248]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-11.24.05:446][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.24.05:453][248]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-11.24.05:453][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.24.05:481][248]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/SideScrollerBP/Team777/Material/popcorn_full.popcorn_full
+[2021.06.01-11.24.05:756][248]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.06.01-11.24.05:799][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.06.01-11.24.05:813][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.06.01-11.24.08:344][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.06.01-11.24.09:328][391]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.01-11.24.09:493][391]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/SideScrollerBP/Team777/Material/popcorn_empty.popcorn_empty
+[2021.06.01-11.24.09:649][391]LogMaterial: Display: Missing cached shader map for material popcorn_empty_Mat, compiling. 
+[2021.06.01-11.24.09:650][391]LogMaterial: Warning: [AssetLog] /Engine/Transient.popcorn_empty_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.01-11.24.09:650][391]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.01-11.24.09:651][391]LogMaterial: Display: Missing cached shader map for material popcorn_empty_Mat, compiling. 
+[2021.06.01-11.24.09:651][391]LogMaterial: Warning: [AssetLog] /Engine/Transient.popcorn_empty_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.01-11.24.09:651][391]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.01-11.24.09:682][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.06.01-11.24.09:699][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.06.01-11.24.09:713][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.06.01-11.24.19:197][578]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Calv182/Creative Cloud Files/popcorn - Full.png)
+[2021.06.01-11.24.19:207][578]LogTexture: Display: Building textures: popcorn_-_Full (BGRA8, 1024X363)
+[2021.06.01-11.24.19:215][578]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Calv182/Creative Cloud Files/popcorn - Empty.png)
+[2021.06.01-11.24.19:223][578]LogTexture: Display: Building textures: popcorn_-_Empty (BGRA8, 1024X363)
+[2021.06.01-11.24.36:923][630]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/SideScrollerBP/Team777/Level_HUD.Level_HUD
+[2021.06.01-11.25.41:727][488]BlueprintLog: New page: Compile Level_HUD
+[2021.06.01-11.25.41:750][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.06.01-11.25.42:645][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Team777/Level_HUD" FILE="../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Level_HUD.uasset" SILENT=true
+[2021.06.01-11.25.42:652][537]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level_HUD79CABF4E445C697EA04CB49C7CCA1FA3.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Level_HUD.uasset'
+[2021.06.01-11.25.42:662][537]AssetCheck: New page: Asset Save: Level_HUD
+[2021.06.01-11.25.42:662][537]LogContentValidation: Display: Validating WidgetBlueprint /Game/SideScrollerBP/Team777/Level_HUD.Level_HUD
+[2021.06.01-11.25.54:161][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.06.01-11.25.54:199][ 71]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/popcorn_-_Full2550E78644A4AD73B2C6C99985091882.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/popcorn_-_Full.uasset'
+[2021.06.01-11.25.54:213][ 71]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/popcorn_-_EmptyA2015C37475F36E97EBAA38121C48BFF.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/popcorn_-_Empty.uasset'
+[2021.06.01-11.25.54:226][ 71]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.01-11.25.54:226][ 71]LogContentValidation: Display: Validating Texture2D /Game/SideScrollerBP/Team777/Material/popcorn_-_Full.popcorn_-_Full
+[2021.06.01-11.25.54:226][ 71]LogContentValidation: Display: Validating Texture2D /Game/SideScrollerBP/Team777/Material/popcorn_-_Empty.popcorn_-_Empty
