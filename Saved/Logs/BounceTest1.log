@@ -1112,3 +1112,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.02-21.17.51:488][241]LogHttp: Warning: 0000026BFE8A8100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
 [2021.06.02-21.17.51:488][241]LogHttp: Warning: 0000026BFE8A8100: libcurl info message cache 1 (Closing connection 3)
 [2021.06.02-21.17.51:496][242]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA225E9F3-49BB-C527-A3C6-FDA5845BB2D7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=9e0758474ad1afbe19f7ba8a7faa05d3%7C645558d95ace4956b15a1f8cc931ad9f%7C1aefb981-1772-4993-a68a-5f56a5a97c5a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.06.02-21.19.51:817][545]LogHttp: Warning: 0000026BFE8AA400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA225E9F3-49BB-C527-A3C6-FDA5845BB2D7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=9e0758474ad1afbe19f7ba8a7faa05d3%7C645558d95ace4956b15a1f8cc931ad9f%7C1aefb981-1772-4993-a68a-5f56a5a97c5a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.06.02-21.19.51:817][545]LogHttp: Warning: 0000026BFE8AA400: request failed, libcurl error: 28 (Timeout was reached)
+[2021.06.02-21.19.51:817][545]LogHttp: Warning: 0000026BFE8AA400: libcurl info message cache 0 (  Trying 3.222.197.140...)
+[2021.06.02-21.19.51:817][545]LogHttp: Warning: 0000026BFE8AA400: libcurl info message cache 1 (TCP_NODELAY set)
+[2021.06.02-21.19.51:817][545]LogHttp: Warning: 0000026BFE8AA400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.222.197.140) port 443 (#4))
+[2021.06.02-21.19.51:817][545]LogHttp: Warning: 0000026BFE8AA400: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2021.06.02-21.19.51:817][545]LogHttp: Warning: 0000026BFE8AA400: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2021.06.02-21.19.51:817][545]LogHttp: Warning: 0000026BFE8AA400: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2021.06.02-21.19.51:817][545]LogHttp: Warning: 0000026BFE8AA400: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2021.06.02-21.19.51:817][545]LogHttp: Warning: 0000026BFE8AA400: libcurl info message cache 7 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2021.06.02-21.19.51:817][545]LogHttp: Warning: 0000026BFE8AA400: libcurl info message cache 8 (Closing connection 4)
+[2021.06.02-21.19.52:150][546]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA225E9F3-49BB-C527-A3C6-FDA5845BB2D7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=9e0758474ad1afbe19f7ba8a7faa05d3%7C645558d95ace4956b15a1f8cc931ad9f%7C1aefb981-1772-4993-a68a-5f56a5a97c5a&AppEnvironment=datacollector-binary&UploadType=eteventstream
