@@ -2678,3 +2678,935 @@ The asset is referenced by other content.
 [2021.06.04-15.31.57:032][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
 [2021.06.04-15.31.57:074][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
 [2021.06.04-15.31.57:164][825]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.06.04-15.33.34:256][755]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/TouchControlsB0DFB7684133DC8B928FE6A77C8D1A1F.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Mobile/TouchControls.uasset'
+[2021.06.04-15.33.34:269][755]AssetCheck: New page: Asset Save: TouchControls
+[2021.06.04-15.33.34:269][755]LogContentValidation: Display: Validating WidgetBlueprint /Game/SideScrollerBP/Team777/Mobile/TouchControls.TouchControls
+[2021.06.04-15.33.36:573][893]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-15.33.36:573][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-15.33.36:580][893]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-15.33.36:580][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-15.36.42:775][994]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.04-15.36.42:793][994]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft IME).
+[2021.06.04-15.39.41:042][961]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.04-15.39.41:049][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.04-15.39.41:049][961]PIE: New page: PIE session: TeamIntro (Jun 4, 2021, 5:39:41 PM)
+[2021.06.04-15.39.41:050][961]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_TeamIntro
+[2021.06.04-15.39.41:050][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000812s)
+[2021.06.04-15.39.41:051][961]LogAIModule: Creating AISystem for world TeamIntro
+[2021.06.04-15.39.41:052][961]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2021.06.04-15.39.41:052][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/TeamIntro.TeamIntro to /Game/SideScrollerBP/Maps/UEDPIE_0_TeamIntro.TeamIntro (0.002023s)
+[2021.06.04-15.39.41:079][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.06.04-15.39.41:092][961]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.06.04-15.39.41:092][961]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.04-15.39.41:092][961]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.04-15.39.41:092][961]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.04-15.39.41:092][961]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.04-15.39.41:092][961]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.04-15.39.41:092][961]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.04-15.39.41:092][961]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.04-15.39.41:092][961]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.04-15.39.41:092][961]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.04-15.39.41:092][961]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.04-15.39.41:096][961]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.04-15.39.41:097][961]LogAudioMixer: Display: 1: FrontRight
+[2021.06.04-15.39.41:107][961]LogAudioMixer: Display: Using Audio Device SAMSUNG (2- NVIDIA High Definition Audio)
+[2021.06.04-15.39.41:107][961]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.04-15.39.41:107][961]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.04-15.39.41:107][961]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.04-15.39.41:108][961]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.04-15.39.41:108][961]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.04-15.39.41:108][961]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.04-15.39.41:124][961]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.04-15.39.41:124][961]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.04-15.39.41:124][961]LogInit: FAudioDevice initialized.
+[2021.06.04-15.39.41:124][961]LogAudio: Display: Audio Device (ID: 21) registered with world 'TeamIntro'.
+[2021.06.04-15.39.41:176][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-15.39.41:177][961]LogLoad: Game class is 'GameModeBase'
+[2021.06.04-15.39.41:178][961]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_TeamIntro.TeamIntro up for play (max tick rate 0) at 2021.06.04-16.39.41
+[2021.06.04-15.39.41:178][961]LogWorld: Bringing up level for play took: 0.000297
+[2021.06.04-15.39.41:178][961]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.06.04-15.39.41:186][961]PIE: Server logged in
+[2021.06.04-15.39.41:188][961]PIE: Play in editor total start time 0.139 seconds.
+[2021.06.04-15.39.46:086][252]LogSlate: Window 'BounceTest1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.04-15.39.46:144][252]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_TeamIntro
+[2021.06.04-15.39.46:145][252]LogWorld: UWorld::CleanupWorld for TeamIntro, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-15.39.46:145][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-15.39.46:157][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.04-15.39.46:169][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-15.39.46:190][252]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.04-15.39.46:191][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.04-15.39.46:192][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.04-15.39.46:213][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.06.04-15.39.46:346][259]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.06.04-15.39.51:359][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.06.04-15.39.52:990][556]LogSlate: Window 'Save Content' being destroyed
+[2021.06.04-15.39.53:013][556]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/Level1_StarwarsBDCF0BBA4092799527B69E9CA925A86D.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Levels/Level1_Starwars.uasset'
+[2021.06.04-15.39.53:051][557]AssetCheck: New page: Asset Save: Level1_Starwars_C
+[2021.06.04-15.39.53:051][557]LogContentValidation: Display: Validating ObjectRedirector /Game/SideScrollerBP/Team777/Levels/Level1_Starwars.Level1_Starwars_C
+[2021.06.04-15.42.28:295][809]LogTemp: Repeating last play command: Standalone Game
+[2021.06.04-15.42.28:322][809]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.06.04-15.43.22:761][ 42]LogEditorViewport: Clicking Background
+[2021.06.04-15.48.21:647][215]LogHttp: Warning: 000001B81BB07900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBBD366F2-474C-AF01-64F8-E2B04062C31B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=96a896a54121aa3131dc8ab17a88fd88%7C5b55b0991b974d2ca579e837ddf08ee3%7C17abe9d8-09be-46af-9b01-026f9cc1fdd8&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.06.04-15.48.21:647][215]LogHttp: Warning: 000001B81BB07900: request failed, libcurl error: 0 (No error)
+[2021.06.04-15.48.21:647][215]LogHttp: Warning: 000001B81BB07900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1b7f238feb0 [can pipeline])
+[2021.06.04-15.48.21:647][215]LogHttp: Warning: 000001B81BB07900: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2021.06.04-15.48.21:647][215]LogHttp: Warning: 000001B81BB07900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.235.175.0) port 443 (#2))
+[2021.06.04-15.48.21:647][215]LogHttp: Warning: 000001B81BB07900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.06.04-15.48.21:647][215]LogHttp: Warning: 000001B81BB07900: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2021.06.04-15.48.21:647][215]LogHttp: Warning: 000001B81BB07900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.06.04-15.48.21:647][215]LogHttp: Warning: 000001B81BB07900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.06.04-15.48.21:647][215]LogHttp: Warning: 000001B81BB07900: libcurl info message cache 7 (Closing connection 2)
+[2021.06.04-15.48.21:647][215]LogHttp: Warning: 000001B81BB07900: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.06.04-15.48.21:658][216]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBBD366F2-474C-AF01-64F8-E2B04062C31B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=96a896a54121aa3131dc8ab17a88fd88%7C5b55b0991b974d2ca579e837ddf08ee3%7C17abe9d8-09be-46af-9b01-026f9cc1fdd8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.06.04-15.55.20:016][317]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/conta/Documents/GitHub/Team777-VI/RAW/Textures/t_burnhole.png)
+[2021.06.04-15.55.20:032][317]LogTexture: Display: Building textures: t_burnhole (AutoDXT, 512X512)
+[2021.06.04-15.55.22:572][446]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/t_burnhole0ABBE6794EC3FF86EA98F1913AEEF864.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/t_burnhole.uasset'
+[2021.06.04-15.55.22:585][446]AssetCheck: New page: Asset Save: t_burnhole
+[2021.06.04-15.55.22:585][446]LogContentValidation: Display: Validating Texture2D /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.55.29:132][822]LogContentBrowser: Deferred new asset file creation: t_burnhole_Mat
+[2021.06.04-15.55.29:150][822]LogContentBrowser: Creating deferred item: t_burnhole_Mat
+[2021.06.04-15.55.33:502][ 80]LogContentBrowser: Attempting asset rename: t_burnhole_Mat -> m_burnhole
+[2021.06.04-15.55.33:505][ 80]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-15.55.33:515][ 80]LogContentBrowser: End creating deferred item t_burnhole_Mat
+[2021.06.04-15.55.33:530][ 81]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.06.04-15.55.33:530][ 81]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.04-15.55.33:530][ 81]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.06.04-15.55.33:530][ 81]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.06.04-15.55.33:530][ 81]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.06.04-15.55.33:530][ 81]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.06.04-15.55.35:632][118]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/m_burnhole6EDB5F4C449F59FF26BE408B527629D1.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/m_burnhole.uasset'
+[2021.06.04-15.55.35:667][118]AssetCheck: New page: Asset Save: m_burnhole
+[2021.06.04-15.55.35:667][118]LogContentValidation: Display: Validating Material /Game/SideScrollerBP/Team777/Material/m_burnhole.m_burnhole
+[2021.06.04-15.55.49:718][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.06.04-15.55.49:763][957]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SideScrollerBP/Maps/TeamIntro.TeamIntro
+[2021.06.04-15.55.49:763][957]Cmd: MAP LOAD FILE="../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Maps/TeamIntro.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.04-15.55.49:763][957]LightingResults: New page: Lighting Build
+[2021.06.04-15.55.49:764][957]LoadErrors: New page: Loading map: TeamIntro.umap
+[2021.06.04-15.55.49:764][957]LogWorld: UWorld::CleanupWorld for TeamIntro, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-15.55.49:764][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-15.55.49:766][957]MapCheck: New page: Map Check
+[2021.06.04-15.55.49:766][957]LightingResults: New page: Lighting Build
+[2021.06.04-15.55.49:787][957]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.04-15.55.49:794][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.06.04-15.55.49:798][957]LogAudio: Display: Audio Device (ID: 1) registered with world 'TeamIntro'.
+[2021.06.04-15.55.49:800][957]LogAIModule: Creating AISystem for world TeamIntro
+[2021.06.04-15.55.49:876][957]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.04-15.55.49:901][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.06.04-15.55.49:908][957]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.04-15.55.49:908][957]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.143ms to complete.
+[2021.06.04-15.55.49:908][957]LogFileHelpers: Loading map 'TeamIntro' took 0.145
+[2021.06.04-15.55.50:762][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.06.04-15.55.50:824][  5]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.06.04-15.55.50:824][  5]Cmd: MAP LOAD FILE="../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.04-15.55.50:825][  5]LightingResults: New page: Lighting Build
+[2021.06.04-15.55.50:825][  5]LoadErrors: New page: Loading map: SideScrollerExampleMap.umap
+[2021.06.04-15.55.50:857][  5]LogWorld: UWorld::CleanupWorld for TeamIntro, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-15.55.50:857][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-15.55.50:857][  5]MapCheck: New page: Map Check
+[2021.06.04-15.55.50:857][  5]LightingResults: New page: Lighting Build
+[2021.06.04-15.55.50:878][  5]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.04-15.55.50:881][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.06.04-15.55.50:882][  5]LogAudio: Display: Audio Device (ID: 1) registered with world 'SideScrollerExampleMap'.
+[2021.06.04-15.55.50:898][  5]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Static) is flushing async loading
+[2021.06.04-15.55.50:898][  5]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.06.04-15.55.50:902][  5]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Scrolling) is flushing async loading
+[2021.06.04-15.55.50:997][  5]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.04-15.55.50:998][  5]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.06.04-15.55.51:025][  5]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.06.04-15.55.51:032][  5]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.04-15.55.51:033][  5]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.397ms to complete.
+[2021.06.04-15.55.51:033][  5]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.208
+[2021.06.04-15.55.51:768][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.06.04-15.55.51:806][ 43]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/SideScrollerExampleMapBB01B0C248B286F3CD7973AAFFEBC786.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.06.04-15.55.51:815][ 43]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.070
+[2021.06.04-15.55.51:830][ 43]AssetCheck: New page: Asset Save: SideScrollerExampleMap
+[2021.06.04-15.55.51:830][ 43]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.06.04-15.55.54:328][193]LogEditorViewport: Clicking on Actor (LMB): StreetTile1_C (StreetTile1)
+[2021.06.04-15.55.56:060][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane158)
+[2021.06.04-15.55.59:507][491]LogEditorViewport: Clicking on Actor (LMB): Level1_Starwars_C (Level1_Starwars)
+[2021.06.04-15.56.01:752][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.04-15.56.03:347][717]LogEditorViewport: Clicking on Actor (LMB): Level1_Starwars_C (Level1_Starwars)
+[2021.06.04-15.56.05:661][853]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Team777/Tracks/Level1_Starwars.Level1_Starwars
+[2021.06.04-15.56.12:073][173]LogSlate: Took 0.000644 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.04-15.56.15:354][342]LogSlate: Window 'Level1_Starwars' being destroyed
+[2021.06.04-15.56.23:429][807]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Team777/Enemies/Flame_obstacle.Flame_obstacle
+[2021.06.04-15.56.31:044][232]LogTemp: Repeating last play command: Standalone Game
+[2021.06.04-15.56.31:078][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.06.04-15.56.53:879][552]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.06.04-15.56.53:913][552]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/SideScrollerExampleMap45019813458B556C01BC528B7D71BFDF.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.06.04-15.56.53:940][552]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/SideScrollerExampleMap_BuiltData1E7AFE194EDF854228D0AFAC1A51E9FA.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2021.06.04-15.56.53:953][552]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.04-15.56.53:954][552]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.06.04-15.56.53:954][552]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2021.06.04-15.57.23:000][272]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.04-15.57.41:997][385]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Team777/Hazards/BurnCircle.BurnCircle
+[2021.06.04-15.57.46:355][615]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-15.57.46:356][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-15.58.04:830][681]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/BurnCircleBBE1FE36452D1156972905AA71CC7CC2.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Hazards/BurnCircle.uasset'
+[2021.06.04-15.58.04:847][681]AssetCheck: New page: Asset Save: BurnCircle
+[2021.06.04-15.58.04:847][681]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Hazards/BurnCircle.BurnCircle
+[2021.06.04-15.58.05:828][740]BlueprintLog: New page: Compile BurnCircle
+[2021.06.04-15.58.05:972][740]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.06.04-15.58.06:023][740]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.04-15.58.07:506][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.06.04-15.58.07:537][824]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/SideScrollerExampleMap5968F528489F33489835BABE623740F1.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.06.04-15.58.07:563][824]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/SideScrollerExampleMap_BuiltDataE2BBDA1946294AA47BF7F18037F59E39.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2021.06.04-15.58.07:577][824]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.04-15.58.07:577][824]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.06.04-15.58.07:577][824]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2021.06.04-15.58.19:265][498]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.58.25:945][892]LogTexture: Display: Building textures: t_burnhole (BC4, 512X512)
+[2021.06.04-15.58.25:960][892]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-15.58.25:961][892]LogMaterial: Warning: [AssetLog] C:\Users\conta\Documents\GitHub\Team777-VI\Content\SideScrollerBP\Team777\Material\m_burnhole.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-15.58.25:961][892]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Alpha for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.58.28:391][ 33]LogTexture: Display: Building textures: t_burnhole (AutoDXT, 512X512)
+[2021.06.04-15.58.33:163][306]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/t_burnholeDF07690A4F96959EED270EB1AC0E3E9A.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/t_burnhole.uasset'
+[2021.06.04-15.58.33:177][306]AssetCheck: New page: Asset Save: t_burnhole
+[2021.06.04-15.58.33:177][306]LogContentValidation: Display: Validating Texture2D /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.58.40:114][716]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/t_burnhole077832FD43C1C5020905B9B5F127AB97.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/t_burnhole.uasset'
+[2021.06.04-15.58.40:127][716]AssetCheck: New page: Asset Save: t_burnhole
+[2021.06.04-15.58.40:128][716]LogContentValidation: Display: Validating Texture2D /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.59.06:088][265]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/t_burnhole2DCA3EAB410694699FE4F9B28B931A15.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/t_burnhole.uasset'
+[2021.06.04-15.59.06:105][265]AssetCheck: New page: Asset Save: t_burnhole
+[2021.06.04-15.59.06:105][265]LogContentValidation: Display: Validating Texture2D /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.59.18:700][ 12]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/SideScrollerBP/Team777/Material/m_burnhole.m_burnhole
+[2021.06.04-15.59.18:701][ 12]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-15.59.18:701][ 12]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-15.59.18:701][ 12]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.59.18:753][ 12]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-15.59.18:753][ 12]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-15.59.18:753][ 12]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.59.18:755][ 12]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-15.59.18:755][ 12]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-15.59.18:755][ 12]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.59.18:765][ 12]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.04-15.59.18:776][ 12]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.59.21:636][178]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-15.59.21:636][178]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-15.59.21:636][178]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.59.21:643][178]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.04-15.59.23:016][254]LogMaterialEditor: Applying material m_burnhole
+[2021.06.04-15.59.24:806][254]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2021.06.04-15.59.25:467][254]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-15.59.25:468][254]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-15.59.25:468][254]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.59.25:484][254]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-15.59.25:484][254]LogMaterial: Warning: [AssetLog] C:\Users\conta\Documents\GitHub\Team777-VI\Content\SideScrollerBP\Team777\Material\m_burnhole.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-15.59.25:485][254]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.59.25:521][254]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.06.04-15.59.25:528][254]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.04-15.59.25:529][254]TextureStreamingBuild: Display: Compiling optional shaders took 0.005 seconds.
+[2021.06.04-15.59.25:558][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.06.04-15.59.28:598][429]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-15.59.28:599][429]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-15.59.28:599][429]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.59.30:734][556]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-15.59.30:735][556]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-15.59.30:735][556]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.59.31:898][620]LogMaterialEditor: Applying material m_burnhole
+[2021.06.04-15.59.35:321][620]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2021.06.04-15.59.35:937][620]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-15.59.35:938][620]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-15.59.35:938][620]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.59.35:951][620]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-15.59.35:952][620]LogMaterial: Warning: [AssetLog] C:\Users\conta\Documents\GitHub\Team777-VI\Content\SideScrollerBP\Team777\Material\m_burnhole.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-15.59.35:952][620]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.59.35:986][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.06.04-15.59.35:991][620]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.04-15.59.35:991][620]TextureStreamingBuild: Display: Compiling optional shaders took 0.004 seconds.
+[2021.06.04-15.59.36:024][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.06.04-15.59.41:351][935]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-15.59.41:351][935]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-15.59.41:352][935]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.59.42:991][ 33]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-15.59.42:992][ 33]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-15.59.42:992][ 33]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Alpha, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.59.43:003][ 33]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.04-15.59.43:007][ 33]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-15.59.43:008][ 33]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-15.59.43:008][ 33]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Alpha, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.59.43:014][ 33]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Alpha, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.59.44:716][133]LogMaterialEditor: Applying material m_burnhole
+[2021.06.04-15.59.47:105][133]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2021.06.04-15.59.48:665][226]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-15.59.48:666][226]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-15.59.48:666][226]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Alpha, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-15.59.50:415][331]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-15.59.50:453][331]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.06.04-15.59.50:453][331]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.06.04-15.59.50:453][331]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.06.04-15.59.50:453][331]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.06.04-15.59.50:453][331]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.06.04-15.59.50:453][331]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.04-15.59.50:453][331]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.06.04-15.59.50:453][331]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.04-15.59.50:455][331]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.04-15.59.50:467][331]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-15.59.51:601][376]LogMaterialEditor: Applying material m_burnhole
+[2021.06.04-15.59.52:674][376]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.06.04-15.59.52:674][376]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.06.04-15.59.52:674][376]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.06.04-15.59.52:674][376]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.06.04-15.59.52:674][376]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.06.04-15.59.52:674][376]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.06.04-15.59.52:674][376]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.06.04-15.59.52:674][376]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.06.04-15.59.52:674][376]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.06.04-15.59.52:694][376]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-15.59.52:810][376]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.06.04-15.59.52:832][376]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-15.59.52:957][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.06.04-15.59.52:970][376]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.04-15.59.53:544][376]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2021.06.04-15.59.53:544][376]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2021.06.04-15.59.53:544][376]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2021.06.04-15.59.53:544][376]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2021.06.04-15.59.53:544][376]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.06.04-15.59.54:102][376]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.06.04-15.59.54:102][376]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.06.04-15.59.54:102][376]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2021.06.04-15.59.54:102][376]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2021.06.04-15.59.54:102][376]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.06.04-15.59.54:660][376]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.06.04-15.59.54:660][376]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.06.04-15.59.54:660][376]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.06.04-15.59.54:660][376]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.06.04-15.59.54:660][376]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.06.04-15.59.54:696][376]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.06.04-15.59.54:702][376]TextureStreamingBuild: Display: Compiling optional shaders took 1.739 seconds.
+[2021.06.04-15.59.54:787][376]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.06.04-15.59.54:787][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.06.04-15.59.54:953][380]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.06.04-15.59.55:458][398]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-15.59.56:088][427]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.06.04-15.59.56:109][428]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.06.04-15.59.56:215][433]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.06.04-15.59.56:304][438]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.06.04-15.59.56:304][438]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.06.04-15.59.56:736][457]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.06.04-15.59.56:941][465]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.06.04-15.59.57:096][472]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.06.04-15.59.57:300][482]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.06.04-15.59.57:515][492]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.06.04-15.59.58:204][527]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.06.04-15.59.58:204][527]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.06.04-15.59.58:204][527]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.04-15.59.58:204][527]MaterialEditorStats: Texture samplers: 4/16
+[2021.06.04-15.59.58:204][527]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.06.04-15.59.58:204][527]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.04-16.00.07:317][ 70]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.00.07:340][ 71]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.06.04-16.00.07:340][ 71]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.06.04-16.00.07:340][ 71]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.06.04-16.00.07:340][ 71]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.06.04-16.00.07:340][ 71]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.06.04-16.00.07:340][ 71]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.04-16.00.07:340][ 71]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.06.04-16.00.07:340][ 71]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.04-16.00.08:388][113]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.06.04-16.00.08:904][143]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.00.08:905][143]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.00.08:905][143]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.00.08:913][143]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.04-16.00.08:917][143]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.00.08:918][143]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.00.08:918][143]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.00.08:922][143]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.00.10:349][228]LogMaterialEditor: Applying material m_burnhole
+[2021.06.04-16.00.11:932][228]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2021.06.04-16.00.12:543][228]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.00.12:544][228]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.00.12:544][228]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.00.12:571][228]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.00.12:572][228]LogMaterial: Warning: [AssetLog] C:\Users\conta\Documents\GitHub\Team777-VI\Content\SideScrollerBP\Team777\Material\m_burnhole.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.00.12:572][228]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.00.12:608][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.06.04-16.00.12:615][228]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.04-16.00.12:615][228]TextureStreamingBuild: Display: Compiling optional shaders took 0.005 seconds.
+[2021.06.04-16.00.12:645][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.06.04-16.00.15:367][381]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.00.24:047][897]LogTexture: Display: Building textures: t_burnhole (BGRA8, 512X512)
+[2021.06.04-16.00.25:333][967]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/t_burnhole8DF543A9488A83B2168020AAD203619C.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/t_burnhole.uasset'
+[2021.06.04-16.00.25:353][967]AssetCheck: New page: Asset Save: t_burnhole
+[2021.06.04-16.00.25:353][967]LogContentValidation: Display: Validating Texture2D /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.00.33:829][471]LogTexture: Display: Building textures: t_burnhole (BGRA8, 512X512)
+[2021.06.04-16.00.36:949][649]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/t_burnhole2CE233E04B83446F583367B41BBA7450.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/t_burnhole.uasset'
+[2021.06.04-16.00.36:962][649]AssetCheck: New page: Asset Save: t_burnhole
+[2021.06.04-16.00.36:962][649]LogContentValidation: Display: Validating Texture2D /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.01.05:430][346]LogTexture: Display: Building textures: t_burnhole (AutoDXT, 512X512)
+[2021.06.04-16.01.14:761][899]LogTexture: Display: Building textures: t_burnhole (BC4, 512X512)
+[2021.06.04-16.01.18:967][142]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/t_burnholeD0730DD74F99A9C10BCE7C8FC9823C70.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/t_burnhole.uasset'
+[2021.06.04-16.01.18:981][142]AssetCheck: New page: Asset Save: t_burnhole
+[2021.06.04-16.01.18:981][142]LogContentValidation: Display: Validating Texture2D /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.01.47:101][824]LogMaterialEditor: Saving and Compiling material m_burnhole
+[2021.06.04-16.01.47:144][824]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/m_burnhole6CAEC0ED40662525789B82A2FE14CB8E.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/m_burnhole.uasset'
+[2021.06.04-16.01.47:156][824]AssetCheck: New page: Asset Save: m_burnhole
+[2021.06.04-16.01.47:157][824]LogContentValidation: Display: Validating Material /Game/SideScrollerBP/Team777/Material/m_burnhole.m_burnhole
+[2021.06.04-16.01.51:304][ 73]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.01.51:305][ 73]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.01.51:305][ 73]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.01.51:310][ 73]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.04-16.01.58:318][479]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.01.58:319][479]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.01.58:319][479]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.01.59:505][550]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.01.59:506][550]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.01.59:506][550]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.01.59:508][550]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.01.59:508][550]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.01.59:508][550]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.01.59:510][550]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.01.59:510][550]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.01.59:510][550]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.02.03:188][767]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.02.03:189][767]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.02.03:189][767]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.02.03:193][767]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.04-16.02.04:452][838]LogMaterialEditor: Applying material m_burnhole
+[2021.06.04-16.02.06:135][838]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2021.06.04-16.02.06:750][838]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.02.06:751][838]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.02.06:751][838]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.02.06:770][838]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.02.06:771][838]LogMaterial: Warning: [AssetLog] C:\Users\conta\Documents\GitHub\Team777-VI\Content\SideScrollerBP\Team777\Material\m_burnhole.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.02.06:771][838]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.02.06:807][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.06.04-16.02.06:814][838]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.04-16.02.06:814][838]TextureStreamingBuild: Display: Compiling optional shaders took 0.004 seconds.
+[2021.06.04-16.02.06:844][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.06.04-16.02.08:958][962]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.02.08:959][962]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.02.08:959][962]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.02.08:967][962]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.04-16.02.10:134][ 32]LogMaterialEditor: Applying material m_burnhole
+[2021.06.04-16.02.11:618][ 32]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2021.06.04-16.02.12:272][ 32]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.02.12:273][ 32]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.02.12:273][ 32]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.02.12:289][ 32]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.02.12:290][ 32]LogMaterial: Warning: [AssetLog] C:\Users\conta\Documents\GitHub\Team777-VI\Content\SideScrollerBP\Team777\Material\m_burnhole.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.02.12:290][ 32]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.02.12:322][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.06.04-16.02.12:327][ 32]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.04-16.02.12:328][ 32]TextureStreamingBuild: Display: Compiling optional shaders took 0.005 seconds.
+[2021.06.04-16.02.12:358][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.06.04-16.02.18:321][381]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/SideScrollerBP/Team777/Material/popcorn_-_Full.popcorn_-_Full
+[2021.06.04-16.02.24:469][734]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/SideScrollerBP/Team777/Material/popcorn_-_Full_Mat.popcorn_-_Full_Mat
+[2021.06.04-16.02.24:471][734]LogMaterial: Display: Missing cached shader map for material popcorn_-_Full_Mat, compiling. 
+[2021.06.04-16.02.24:583][734]LogMaterial: Display: Missing cached shader map for material popcorn_-_Full_Mat, compiling. 
+[2021.06.04-16.02.24:599][734]LogMaterial: Display: Missing cached shader map for material popcorn_-_Full_Mat, compiling. 
+[2021.06.04-16.02.24:616][734]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2021.06.04-16.02.24:616][734]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2021.06.04-16.02.24:616][734]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.06.04-16.02.24:616][734]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2021.06.04-16.02.24:616][734]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.06.04-16.02.24:616][734]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.06.04-16.02.24:616][734]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.06.04-16.02.24:616][734]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2021.06.04-16.02.24:620][734]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.04-16.02.25:383][766]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.06.04-16.02.25:495][770]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2021.06.04-16.02.25:624][776]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2021.06.04-16.02.25:663][778]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.06.04-16.02.25:752][783]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2021.06.04-16.02.25:821][787]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.06.04-16.02.25:911][792]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2021.06.04-16.02.26:174][806]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.06.04-16.02.26:296][812]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2021.06.04-16.02.26:529][824]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.06.04-16.02.26:592][827]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.06.04-16.02.26:776][836]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.06.04-16.02.26:829][839]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.06.04-16.02.26:865][841]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.06.04-16.02.27:283][861]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.06.04-16.02.27:328][863]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.06.04-16.02.27:581][876]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.06.04-16.02.27:661][880]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.06.04-16.02.27:753][885]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.06.04-16.02.27:803][888]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.06.04-16.02.27:803][888]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.04-16.02.28:059][902]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.06.04-16.02.29:016][944]MaterialEditorStats: Base pass shader: 151 instructions
+[2021.06.04-16.02.29:016][944]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 226 instructions
+[2021.06.04-16.02.29:016][944]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.06.04-16.02.29:016][944]MaterialEditorStats: Texture samplers: 3/16
+[2021.06.04-16.02.29:016][944]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.06.04-16.02.29:016][944]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.04-16.02.35:623][335]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-16.02.35:623][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-16.02.41:840][700]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.02.41:841][700]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.02.41:841][700]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.02.41:850][700]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.04-16.02.43:922][822]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.02.43:923][822]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.02.43:923][822]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.02.43:927][822]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.04-16.02.48:205][ 75]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.02.48:205][ 75]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.02.48:205][ 75]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.02.55:571][517]LogMaterialEditor: Applying material m_burnhole
+[2021.06.04-16.02.57:275][517]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2021.06.04-16.02.57:901][517]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.02.57:902][517]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.02.57:902][517]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.02.57:924][517]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.02.57:924][517]LogMaterial: Warning: [AssetLog] C:\Users\conta\Documents\GitHub\Team777-VI\Content\SideScrollerBP\Team777\Material\m_burnhole.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.02.57:924][517]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.02.57:964][517]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.06.04-16.02.57:971][517]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.04-16.02.57:971][517]TextureStreamingBuild: Display: Compiling optional shaders took 0.004 seconds.
+[2021.06.04-16.02.58:001][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.06.04-16.03.01:037][692]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.03.01:038][692]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.03.01:038][692]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.03.03:189][821]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.03.03:255][821]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2021.06.04-16.03.03:255][821]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2021.06.04-16.03.03:255][821]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.06.04-16.03.03:255][821]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2021.06.04-16.03.03:255][821]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.06.04-16.03.03:255][821]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.06.04-16.03.03:255][821]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.06.04-16.03.03:255][821]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2021.06.04-16.03.03:255][821]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.04-16.03.03:269][821]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.03.04:001][851]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 30
+[2021.06.04-16.03.04:050][853]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2021.06.04-16.03.04:274][864]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 28
+[2021.06.04-16.03.04:326][867]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2021.06.04-16.03.04:326][867]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2021.06.04-16.03.04:365][869]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2021.06.04-16.03.04:841][885]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2021.06.04-16.03.05:083][895]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 23
+[2021.06.04-16.03.05:225][902]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.06.04-16.03.05:242][903]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2021.06.04-16.03.05:363][910]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.06.04-16.03.05:363][910]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.06.04-16.03.05:419][913]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2021.06.04-16.03.05:576][922]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2021.06.04-16.03.05:596][923]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2021.06.04-16.03.05:786][933]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.06.04-16.03.05:840][936]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.06.04-16.03.05:861][937]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.06.04-16.03.05:881][938]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.06.04-16.03.06:005][944]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.06.04-16.03.06:331][959]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.06.04-16.03.06:439][964]LogMaterialEditor: Applying material m_burnhole
+[2021.06.04-16.03.07:461][964]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.06.04-16.03.07:461][964]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.06.04-16.03.07:461][964]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.06.04-16.03.07:461][964]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.06.04-16.03.07:461][964]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.06.04-16.03.07:461][964]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.06.04-16.03.07:461][964]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.06.04-16.03.07:461][964]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.06.04-16.03.07:461][964]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.06.04-16.03.07:509][964]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.03.07:606][964]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2021.06.04-16.03.07:607][964]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2021.06.04-16.03.07:607][964]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2021.06.04-16.03.07:652][964]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.03.07:767][964]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 56
+[2021.06.04-16.03.07:768][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.06.04-16.03.07:775][964]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.04-16.03.08:344][964]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 57
+[2021.06.04-16.03.08:344][964]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 56
+[2021.06.04-16.03.08:344][964]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 55
+[2021.06.04-16.03.08:344][964]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 54
+[2021.06.04-16.03.08:344][964]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 53
+[2021.06.04-16.03.08:344][964]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 52
+[2021.06.04-16.03.08:904][964]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 51
+[2021.06.04-16.03.08:904][964]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 50
+[2021.06.04-16.03.08:904][964]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 49
+[2021.06.04-16.03.08:904][964]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 48
+[2021.06.04-16.03.08:904][964]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 47
+[2021.06.04-16.03.08:904][964]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 46
+[2021.06.04-16.03.08:904][964]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 45
+[2021.06.04-16.03.09:464][964]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 44
+[2021.06.04-16.03.09:464][964]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 43
+[2021.06.04-16.03.09:464][964]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 42
+[2021.06.04-16.03.09:464][964]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 41
+[2021.06.04-16.03.09:464][964]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 40
+[2021.06.04-16.03.10:025][964]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 39
+[2021.06.04-16.03.10:025][964]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 38
+[2021.06.04-16.03.10:025][964]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 37
+[2021.06.04-16.03.10:025][964]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 36
+[2021.06.04-16.03.10:025][964]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 35
+[2021.06.04-16.03.10:025][964]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 34
+[2021.06.04-16.03.10:577][964]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 33
+[2021.06.04-16.03.10:577][964]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 28
+[2021.06.04-16.03.10:577][964]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2021.06.04-16.03.10:577][964]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2021.06.04-16.03.10:577][964]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2021.06.04-16.03.10:577][964]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.06.04-16.03.10:583][964]TextureStreamingBuild: Display: Compiling optional shaders took 2.813 seconds.
+[2021.06.04-16.03.10:682][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.06.04-16.03.11:023][977]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.06.04-16.03.11:288][991]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.06.04-16.03.12:615][ 50]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.06.04-16.03.12:826][ 60]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.06.04-16.03.13:097][ 72]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.06.04-16.03.13:212][ 78]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.06.04-16.03.13:445][ 89]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.06.04-16.03.13:701][101]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.06.04-16.03.13:856][109]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.06.04-16.03.14:700][155]MaterialEditorStats: Base pass shader: 122 instructions
+[2021.06.04-16.03.14:700][155]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2021.06.04-16.03.14:700][155]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.06.04-16.03.14:700][155]MaterialEditorStats: Texture samplers: 4/16
+[2021.06.04-16.03.14:700][155]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.06.04-16.03.14:700][155]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.04-16.03.15:051][176]LogMaterialEditor: Saving and Compiling material m_burnhole
+[2021.06.04-16.03.15:091][176]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/m_burnholeDC31EAD2451B49087A7F679671401567.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/m_burnhole.uasset'
+[2021.06.04-16.03.15:104][176]AssetCheck: New page: Asset Save: m_burnhole
+[2021.06.04-16.03.15:104][176]LogContentValidation: Display: Validating Material /Game/SideScrollerBP/Team777/Material/m_burnhole.m_burnhole
+[2021.06.04-16.03.28:602][978]LogTexture: Display: Building textures: t_burnhole (AutoDXT, 512X512)
+[2021.06.04-16.03.28:686][978]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.03.28:686][978]LogMaterial: Warning: [AssetLog] C:\Users\conta\Documents\GitHub\Team777-VI\Content\SideScrollerBP\Team777\Material\m_burnhole.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.03.28:687][978]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.03.28:689][978]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.03.28:690][978]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.03.28:690][978]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.03.28:697][978]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.03.33:670][271]LogMaterialEditor: Saving and Compiling material m_burnhole
+[2021.06.04-16.03.33:703][271]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/m_burnhole5879AA484415CC4ABF3E5FA3F791B35A.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/m_burnhole.uasset'
+[2021.06.04-16.03.33:717][271]AssetCheck: New page: Asset Save: m_burnhole
+[2021.06.04-16.03.33:718][271]LogContentValidation: Display: Validating Material /Game/SideScrollerBP/Team777/Material/m_burnhole.m_burnhole
+[2021.06.04-16.03.36:953][465]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.03.36:954][465]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_burnhole (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.04-16.03.36:954][465]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.03.38:140][536]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.03.38:156][536]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.04-16.03.38:164][536]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2021.06.04-16.03.38:164][536]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2021.06.04-16.03.38:164][536]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.06.04-16.03.38:164][536]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2021.06.04-16.03.38:164][536]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.06.04-16.03.38:164][536]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.06.04-16.03.38:164][536]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.06.04-16.03.38:164][536]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2021.06.04-16.03.38:169][536]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.03.38:801][567]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 30
+[2021.06.04-16.03.38:828][568]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2021.06.04-16.03.39:188][583]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2021.06.04-16.03.39:189][583]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2021.06.04-16.03.39:257][586]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2021.06.04-16.03.39:332][589]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2021.06.04-16.03.39:537][600]LogMaterialEditor: Applying material m_burnhole
+[2021.06.04-16.03.40:611][600]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2021.06.04-16.03.40:611][600]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2021.06.04-16.03.40:611][600]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2021.06.04-16.03.40:611][600]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2021.06.04-16.03.40:611][600]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2021.06.04-16.03.40:611][600]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2021.06.04-16.03.40:611][600]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2021.06.04-16.03.40:611][600]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.06.04-16.03.40:611][600]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.06.04-16.03.40:611][600]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2021.06.04-16.03.40:611][600]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.06.04-16.03.40:611][600]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.06.04-16.03.40:611][600]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.06.04-16.03.40:611][600]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2021.06.04-16.03.40:663][600]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.03.40:793][600]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 26
+[2021.06.04-16.03.40:849][600]LogMaterial: Display: Missing cached shader map for material m_burnhole, compiling. 
+[2021.06.04-16.03.40:998][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.06.04-16.03.41:007][600]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.04-16.03.41:578][600]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 60
+[2021.06.04-16.03.41:578][600]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 59
+[2021.06.04-16.03.41:578][600]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 58
+[2021.06.04-16.03.41:578][600]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 57
+[2021.06.04-16.03.42:137][600]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 56
+[2021.06.04-16.03.42:137][600]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 55
+[2021.06.04-16.03.42:137][600]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 54
+[2021.06.04-16.03.42:137][600]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 53
+[2021.06.04-16.03.42:137][600]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 52
+[2021.06.04-16.03.42:137][600]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 51
+[2021.06.04-16.03.42:137][600]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 50
+[2021.06.04-16.03.42:137][600]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 49
+[2021.06.04-16.03.42:137][600]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 48
+[2021.06.04-16.03.42:137][600]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 47
+[2021.06.04-16.03.42:697][600]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 46
+[2021.06.04-16.03.42:697][600]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 45
+[2021.06.04-16.03.42:697][600]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 44
+[2021.06.04-16.03.42:697][600]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 43
+[2021.06.04-16.03.42:697][600]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 42
+[2021.06.04-16.03.43:259][600]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 41
+[2021.06.04-16.03.43:259][600]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 40
+[2021.06.04-16.03.43:259][600]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2021.06.04-16.03.43:259][600]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 38
+[2021.06.04-16.03.43:818][600]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 37
+[2021.06.04-16.03.43:818][600]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 36
+[2021.06.04-16.03.43:818][600]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 35
+[2021.06.04-16.03.43:818][600]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 34
+[2021.06.04-16.03.43:818][600]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 33
+[2021.06.04-16.03.43:818][600]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2021.06.04-16.03.43:818][600]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2021.06.04-16.03.43:818][600]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2021.06.04-16.03.44:026][600]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2021.06.04-16.03.44:026][600]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.06.04-16.03.44:032][600]TextureStreamingBuild: Display: Compiling optional shaders took 3.032 seconds.
+[2021.06.04-16.03.44:103][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.06.04-16.03.44:562][618]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.06.04-16.03.44:656][622]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.04-16.03.45:890][673]LogMaterialEditor: Saving and Compiling material m_burnhole
+[2021.06.04-16.03.45:924][673]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.06.04-16.03.46:500][673]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.06.04-16.03.46:500][673]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.06.04-16.03.46:500][673]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.06.04-16.03.47:060][673]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.06.04-16.03.47:060][673]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.06.04-16.03.47:060][673]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.06.04-16.03.47:482][673]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/m_burnhole4F3AA6E740ACD91D34B2829BDC4C0C89.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/m_burnhole.uasset'
+[2021.06.04-16.03.47:524][673]AssetCheck: New page: Asset Save: m_burnhole
+[2021.06.04-16.03.47:524][673]LogContentValidation: Display: Validating Material /Game/SideScrollerBP/Team777/Material/m_burnhole.m_burnhole
+[2021.06.04-16.03.47:526][673]MaterialEditorStats: Base pass shader: 122 instructions
+[2021.06.04-16.03.47:526][673]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2021.06.04-16.03.47:526][673]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.06.04-16.03.47:526][673]MaterialEditorStats: Texture samplers: 4/16
+[2021.06.04-16.03.47:526][673]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.06.04-16.03.47:526][673]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.04-16.03.53:422][ 26]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-16.03.53:422][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-16.03.55:603][151]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/t_burnhole894DA1E44CCF328D8B14D78CFA17446A.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/t_burnhole.uasset'
+[2021.06.04-16.03.55:615][151]AssetCheck: New page: Asset Save: t_burnhole
+[2021.06.04-16.03.55:615][151]LogContentValidation: Display: Validating Texture2D /Game/SideScrollerBP/Team777/Material/t_burnhole.t_burnhole
+[2021.06.04-16.03.58:874][339]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.04-16.03.58:874][339]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-16.03.58:874][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-16.04.01:602][495]LogTemp: Repeating last play command: Standalone Game
+[2021.06.04-16.04.01:645][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.06.04-16.05.17:056][889]BlueprintLog: New page: Compile Level1_Starwars
+[2021.06.04-16.05.17:135][889]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.06.04-16.05.18:250][943]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/Level1_StarwarsC4B14F4A43282F8BBD0307B2AA9E25CC.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level1_Starwars.uasset'
+[2021.06.04-16.05.18:269][943]AssetCheck: New page: Asset Save: Level1_Starwars
+[2021.06.04-16.05.18:269][943]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level1_Starwars.Level1_Starwars
+[2021.06.04-16.05.22:189][175]BlueprintLog: New page: Compile Level1_Starwars
+[2021.06.04-16.05.22:271][175]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2021.06.04-16.05.22:881][200]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/Level1_StarwarsB486519E443D7FEB11B77BAD5DE4DDE7.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level1_Starwars.uasset'
+[2021.06.04-16.05.22:898][200]AssetCheck: New page: Asset Save: Level1_Starwars
+[2021.06.04-16.05.22:898][200]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level1_Starwars.Level1_Starwars
+[2021.06.04-16.05.26:298][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.04-16.05.26:299][403]PIE: New page: PIE session: SideScrollerExampleMap (Jun 4, 2021, 6:05:26 PM)
+[2021.06.04-16.05.26:299][403]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.04-16.05.26:313][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014198s)
+[2021.06.04-16.05.26:315][403]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.06.04-16.05.26:315][403]LogPlayLevel: PIE: World Init took: (0.001698s)
+[2021.06.04-16.05.26:315][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.016137s)
+[2021.06.04-16.05.26:354][403]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.06.04-16.05.26:355][403]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.06.04-16.05.26:355][403]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.04-16.05.26:355][403]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.04-16.05.26:355][403]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.04-16.05.26:355][403]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.04-16.05.26:355][403]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.04-16.05.26:355][403]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.04-16.05.26:355][403]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.04-16.05.26:355][403]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.04-16.05.26:355][403]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.04-16.05.26:355][403]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.04-16.05.26:360][403]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.04-16.05.26:360][403]LogAudioMixer: Display: 1: FrontRight
+[2021.06.04-16.05.26:371][403]LogAudioMixer: Display: Using Audio Device SAMSUNG (2- NVIDIA High Definition Audio)
+[2021.06.04-16.05.26:371][403]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.04-16.05.26:371][403]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.04-16.05.26:371][403]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.04-16.05.26:372][403]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.04-16.05.26:372][403]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.04-16.05.26:372][403]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.04-16.05.26:389][403]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.04-16.05.26:389][403]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.04-16.05.26:389][403]LogInit: FAudioDevice initialized.
+[2021.06.04-16.05.26:389][403]LogAudio: Display: Audio Device (ID: 22) registered with world 'SideScrollerExampleMap'.
+[2021.06.04-16.05.26:439][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-16.05.26:439][403]LogLoad: Game class is 'GameModeBase'
+[2021.06.04-16.05.26:451][403]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.06.04-17.05.26
+[2021.06.04-16.05.26:452][403]LogWorld: Bringing up level for play took: 0.003980
+[2021.06.04-16.05.26:452][403]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2021.06.04-16.05.26:459][403]PIE: Server logged in
+[2021.06.04-16.05.26:463][403]PIE: Play in editor total start time 0.165 seconds.
+[2021.06.04-16.05.46:809][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-16.05.46:809][618]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.04-16.05.46:810][618]LogSlate: Window 'BounceTest1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.04-16.05.46:814][618]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-16.05.46:815][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-16.05.46:845][618]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.04-16.05.46:859][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-16.05.46:889][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.04-16.05.46:890][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.04-16.05.46:911][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.06.04-16.05.47:039][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.06.04-16.05.47:132][625]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2021.06.04-16.05.51:462][874]BlueprintLog: New page: Compile Level1_Starwars
+[2021.06.04-16.05.51:548][874]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.06.04-16.05.51:986][887]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/Level1_Starwars392C0CAF4A9148D9A19306A6B7EF0CF5.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level1_Starwars.uasset'
+[2021.06.04-16.05.52:002][887]AssetCheck: New page: Asset Save: Level1_Starwars
+[2021.06.04-16.05.52:002][887]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level1_Starwars.Level1_Starwars
+[2021.06.04-16.05.52:656][926]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.04-16.05.52:663][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.04-16.05.52:663][926]PIE: New page: PIE session: SideScrollerExampleMap (Jun 4, 2021, 6:05:52 PM)
+[2021.06.04-16.05.52:664][926]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.04-16.05.52:680][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016483s)
+[2021.06.04-16.05.52:683][926]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.06.04-16.05.52:684][926]LogPlayLevel: PIE: World Init took: (0.003372s)
+[2021.06.04-16.05.52:684][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.020227s)
+[2021.06.04-16.05.52:719][926]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2021.06.04-16.05.52:720][926]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.06.04-16.05.52:721][926]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.04-16.05.52:721][926]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.04-16.05.52:721][926]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.04-16.05.52:721][926]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.04-16.05.52:721][926]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.04-16.05.52:721][926]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.04-16.05.52:721][926]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.04-16.05.52:721][926]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.04-16.05.52:721][926]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.04-16.05.52:721][926]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.04-16.05.52:725][926]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.04-16.05.52:725][926]LogAudioMixer: Display: 1: FrontRight
+[2021.06.04-16.05.52:736][926]LogAudioMixer: Display: Using Audio Device SAMSUNG (2- NVIDIA High Definition Audio)
+[2021.06.04-16.05.52:736][926]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.04-16.05.52:736][926]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.04-16.05.52:736][926]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.04-16.05.52:737][926]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.04-16.05.52:737][926]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.04-16.05.52:737][926]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.04-16.05.52:753][926]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.04-16.05.52:753][926]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.04-16.05.52:753][926]LogInit: FAudioDevice initialized.
+[2021.06.04-16.05.52:753][926]LogAudio: Display: Audio Device (ID: 23) registered with world 'SideScrollerExampleMap'.
+[2021.06.04-16.05.52:807][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-16.05.52:808][926]LogLoad: Game class is 'GameModeBase'
+[2021.06.04-16.05.52:821][926]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.06.04-17.05.52
+[2021.06.04-16.05.52:821][926]LogWorld: Bringing up level for play took: 0.002755
+[2021.06.04-16.05.52:821][926]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2021.06.04-16.05.52:828][926]PIE: Server logged in
+[2021.06.04-16.05.52:831][926]PIE: Play in editor total start time 0.169 seconds.
+[2021.06.04-16.06.05:979][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-16.06.05:979][708]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.04-16.06.05:980][708]LogSlate: Window 'BounceTest1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.04-16.06.05:988][708]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-16.06.05:988][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-16.06.06:019][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.04-16.06.06:031][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-16.06.06:061][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.04-16.06.06:062][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.04-16.06.06:086][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.06.04-16.06.06:215][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.06.04-16.06.06:309][715]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2021.06.04-16.06.10:074][937]BlueprintLog: New page: Compile Level1_Starwars
+[2021.06.04-16.06.10:157][937]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.06.04-16.06.10:680][957]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/Level1_StarwarsA58B78084AE9B5DD777AFCA11D1CC432.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level1_Starwars.uasset'
+[2021.06.04-16.06.10:696][957]AssetCheck: New page: Asset Save: Level1_Starwars
+[2021.06.04-16.06.10:696][957]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level1_Starwars.Level1_Starwars
+[2021.06.04-16.06.11:439][  1]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.04-16.06.11:446][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.04-16.06.11:446][  1]PIE: New page: PIE session: SideScrollerExampleMap (Jun 4, 2021, 6:06:11 PM)
+[2021.06.04-16.06.11:446][  1]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.04-16.06.11:461][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014882s)
+[2021.06.04-16.06.11:462][  1]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.06.04-16.06.11:463][  1]LogPlayLevel: PIE: World Init took: (0.001451s)
+[2021.06.04-16.06.11:463][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.016490s)
+[2021.06.04-16.06.11:499][  1]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.06.04-16.06.11:500][  1]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.06.04-16.06.11:501][  1]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.04-16.06.11:501][  1]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.04-16.06.11:501][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.04-16.06.11:501][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.04-16.06.11:501][  1]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.04-16.06.11:501][  1]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.04-16.06.11:501][  1]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.04-16.06.11:501][  1]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.04-16.06.11:501][  1]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.04-16.06.11:501][  1]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.04-16.06.11:505][  1]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.04-16.06.11:505][  1]LogAudioMixer: Display: 1: FrontRight
+[2021.06.04-16.06.11:515][  1]LogAudioMixer: Display: Using Audio Device SAMSUNG (2- NVIDIA High Definition Audio)
+[2021.06.04-16.06.11:515][  1]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.04-16.06.11:515][  1]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.04-16.06.11:515][  1]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.04-16.06.11:516][  1]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.04-16.06.11:517][  1]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.04-16.06.11:517][  1]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.04-16.06.11:536][  1]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.04-16.06.11:536][  1]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.04-16.06.11:536][  1]LogInit: FAudioDevice initialized.
+[2021.06.04-16.06.11:536][  1]LogAudio: Display: Audio Device (ID: 24) registered with world 'SideScrollerExampleMap'.
+[2021.06.04-16.06.11:589][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-16.06.11:589][  1]LogLoad: Game class is 'GameModeBase'
+[2021.06.04-16.06.11:601][  1]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.06.04-17.06.11
+[2021.06.04-16.06.11:602][  1]LogWorld: Bringing up level for play took: 0.003661
+[2021.06.04-16.06.11:602][  1]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2021.06.04-16.06.11:608][  1]PIE: Server logged in
+[2021.06.04-16.06.11:612][  1]PIE: Play in editor total start time 0.166 seconds.
+[2021.06.04-16.06.38:172][582]LogNet: Browse: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2021.06.04-16.06.38:172][582]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2021.06.04-16.06.38:172][582]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.04-16.06.38:173][582]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-16.06.38:173][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-16.06.38:173][582]LogWorld: UWorld::CleanupWorld for Static, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-16.06.38:173][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-16.06.38:174][582]LogWorld: UWorld::CleanupWorld for Scrolling, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-16.06.38:174][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-16.06.38:229][582]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.04-16.06.38:234][582]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.06.04-16.06.38:238][582]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.04-16.06.38:254][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015566s)
+[2021.06.04-16.06.38:255][582]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.06.04-16.06.38:256][582]LogPlayLevel: PIE: World Init took: (0.002189s)
+[2021.06.04-16.06.38:256][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.018155s)
+[2021.06.04-16.06.38:256][582]LogAudio: Display: Audio Device (ID: 24) registered with world 'SideScrollerExampleMap'.
+[2021.06.04-16.06.38:257][582]LogLoad: Game class is 'GameModeBase'
+[2021.06.04-16.06.38:284][582]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.06.04-17.06.38
+[2021.06.04-16.06.38:284][582]LogWorld: Bringing up level for play took: 0.002087
+[2021.06.04-16.06.38:287][582]LogLoad: Took 0.114775 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap)
+[2021.06.04-16.06.59:370][846]LogNet: Browse: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2021.06.04-16.06.59:370][846]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2021.06.04-16.06.59:370][846]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.04-16.06.59:371][846]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-16.06.59:371][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-16.06.59:371][846]LogWorld: UWorld::CleanupWorld for Static, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-16.06.59:371][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-16.06.59:371][846]LogWorld: UWorld::CleanupWorld for Scrolling, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-16.06.59:371][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-16.06.59:438][846]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.04-16.06.59:442][846]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.06.04-16.06.59:445][846]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.04-16.06.59:461][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015616s)
+[2021.06.04-16.06.59:462][846]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.06.04-16.06.59:462][846]LogPlayLevel: PIE: World Init took: (0.001465s)
+[2021.06.04-16.06.59:463][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.017303s)
+[2021.06.04-16.06.59:463][846]LogAudio: Display: Audio Device (ID: 24) registered with world 'SideScrollerExampleMap'.
+[2021.06.04-16.06.59:463][846]LogLoad: Game class is 'GameModeBase'
+[2021.06.04-16.06.59:487][846]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.06.04-17.06.59
+[2021.06.04-16.06.59:487][846]LogWorld: Bringing up level for play took: 0.001909
+[2021.06.04-16.06.59:489][846]LogLoad: Took 0.118964 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap)
+[2021.06.04-16.07.37:224][108]LogSlate: Window 'BounceTest1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.04-16.07.37:230][108]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.04-16.07.37:270][108]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-16.07.37:271][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-16.07.37:304][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.04-16.07.37:316][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-16.07.37:345][108]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.04-16.07.37:346][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.04-16.07.37:347][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.04-16.07.37:372][108]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.06.04-16.07.37:419][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.06.04-16.07.37:606][115]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2021.06.04-16.07.39:233][205]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/Level1_Starwars382BDC2C44B1CF97206F059540BA7CC0.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level1_Starwars.uasset'
+[2021.06.04-16.07.39:247][205]AssetCheck: New page: Asset Save: Level1_Starwars
+[2021.06.04-16.07.39:247][205]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level1_Starwars.Level1_Starwars
+[2021.06.04-16.07.48:338][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.06.04-16.07.48:371][743]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/SideScrollerExampleMapC8C0870E4299D5061D61308F7F2776E6.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.06.04-16.07.48:398][743]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/SideScrollerExampleMap_BuiltData034251C0465C99286BC513B8914BDA00.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2021.06.04-16.07.48:414][743]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.04-16.07.48:414][743]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.06.04-16.07.48:414][743]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2021.06.04-16.08.07:179][864]LogEditorViewport: Clicking on Actor (context menu): StreetTile3_C (StreetTile3)
+[2021.06.04-16.08.07:843][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.06.04-16.08.07:881][896]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/SideScrollerExampleMap2DFCF516416990F82A30CCB1E5A80674.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.06.04-16.08.07:906][896]LogSavePackage: Moving '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Saved/SideScrollerExampleMap_BuiltData47381F1A4D65AB215E632FA144C5844B.tmp' to '../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2021.06.04-16.08.07:925][896]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.04-16.08.07:925][896]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.06.04-16.08.07:925][896]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
