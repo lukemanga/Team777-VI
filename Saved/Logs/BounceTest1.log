@@ -1306,3 +1306,894 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.04-17.02.52:449][  9]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.049
 [2021.06.04-17.02.52:465][  9]AssetCheck: New page: Asset Save: SideScrollerExampleMap
 [2021.06.04-17.02.52:465][  9]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.06.04-17.04.14:038][666]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{78374534-93bf-44b2-98ad-91425ea6cd7e}.
+[2021.06.04-17.04.14:038][666]LogAudioMixer: Resetting audio stream to device id 
+[2021.06.04-17.04.14:066][666]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.04-17.04.14:066][666]LogAudioMixer: Display: 1: FrontRight
+[2021.06.04-17.08.22:020][998]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Team777/Tracks/Level1_Starwars.Level1_Starwars
+[2021.06.04-17.09.02:888][418]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a76b8150-557f-4a6d-a085-7b3f5260a1cc}.
+[2021.06.04-17.09.02:896][418]LogAudioMixer: Resetting audio stream to device id 
+[2021.06.04-17.09.03:515][418]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.04-17.09.03:515][418]LogAudioMixer: Display: 1: FrontRight
+[2021.06.04-17.09.30:745][ 27]LogRenderer: Reallocating scene render targets to support 992x632 Format 10 NumSamples 1 (Frame:1).
+[2021.06.04-17.10.26:394][359]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.10.33:141][747]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-17.10.33:141][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-17.10.42:106][280]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.10.56:558][131]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-17.10.56:558][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-17.11.09:548][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.06.04-17.11.11:174][904]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.04-17.11.11:251][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.06.04-17.11.11:286][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.06.04-17.11.11:305][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.06.04-17.11.16:982][243]LogContentBrowser: Deferred new asset file creation: Level1_Starwars1
+[2021.06.04-17.11.16:995][243]LogContentBrowser: Creating deferred item: Level1_Starwars1
+[2021.06.04-17.11.29:360][985]LogContentBrowser: Attempting asset rename: Level1_Starwars1 -> Level2_HarryPotter
+[2021.06.04-17.11.29:402][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.06.04-17.11.29:420][985]LogContentBrowser: End creating deferred item Level1_Starwars1
+[2021.06.04-17.11.46:679][ 20]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.15.02:628][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.06.04-17.15.02:629][694]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.026
+[2021.06.04-17.15.02:630][694]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter] ([1] browsable assets)...
+[2021.06.04-17.15.02:630][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter]
+[2021.06.04-17.15.02:640][694]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter_Auto1BE8496F94510E60ADB3016B633B3366F.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Autosaves/Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter_Auto1.uasset'
+[2021.06.04-17.15.02:641][694]LogFileHelpers: Auto-saving content packages took 0.012
+[2021.06.04-17.18.19:205][385]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.04-17.18.19:212][385]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.04-17.18.19:213][385]LogPlayLevel: [PlayLevel] Compiling Level2_HarryPotter before play...
+[2021.06.04-17.18.19:256][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.06.04-17.18.19:258][385]LogPlayLevel: PlayLevel: Blueprint regeneration took 45 ms (1 blueprints)
+[2021.06.04-17.18.19:258][385]PIE: New page: PIE session: SideScrollerExampleMap (4 Jun 2021, 19:18:19)
+[2021.06.04-17.18.19:259][385]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.04-17.18.19:270][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011292s)
+[2021.06.04-17.18.19:271][385]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.06.04-17.18.19:272][385]LogPlayLevel: PIE: World Init took: (0.001685s)
+[2021.06.04-17.18.19:272][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013187s)
+[2021.06.04-17.18.19:296][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.06.04-17.18.19:297][385]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.06.04-17.18.19:297][385]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.04-17.18.19:297][385]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.04-17.18.19:297][385]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.04-17.18.19:297][385]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.04-17.18.19:297][385]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.04-17.18.19:297][385]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.04-17.18.19:297][385]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.04-17.18.19:297][385]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.04-17.18.19:297][385]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.04-17.18.19:297][385]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.04-17.18.19:299][385]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.04-17.18.19:299][385]LogAudioMixer: Display: 1: FrontRight
+[2021.06.04-17.18.19:402][385]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.04-17.18.19:403][385]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.04-17.18.19:403][385]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.04-17.18.19:403][385]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.04-17.18.19:403][385]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.04-17.18.19:403][385]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.04-17.18.19:403][385]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.04-17.18.19:415][385]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.04-17.18.19:415][385]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.04-17.18.19:415][385]LogInit: FAudioDevice initialized.
+[2021.06.04-17.18.19:415][385]LogAudio: Display: Audio Device (ID: 8) registered with world 'SideScrollerExampleMap'.
+[2021.06.04-17.18.19:436][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-17.18.19:437][385]LogLoad: Game class is 'GameModeBase'
+[2021.06.04-17.18.19:444][385]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2021.06.04-18.18.19
+[2021.06.04-17.18.19:445][385]LogWorld: Bringing up level for play took: 0.002088
+[2021.06.04-17.18.19:445][385]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.06.04-17.18.19:449][385]PIE: Server logged in
+[2021.06.04-17.18.19:450][385]PIE: Play in editor total start time 0.239 seconds.
+[2021.06.04-17.18.19:524][386]LogRenderer: Reallocating scene render targets to support 992x640 Format 10 NumSamples 1 (Frame:1).
+[2021.06.04-17.18.26:381][794]LogSlate: Window 'BounceTest1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.04-17.18.26:391][794]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.06.04-17.18.26:433][794]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-17.18.26:433][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-17.18.26:439][794]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.04-17.18.26:444][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-17.18.26:465][794]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.04-17.18.26:466][794]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.04-17.18.26:486][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.06.04-17.18.26:520][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.06.04-17.18.26:637][801]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.06.04-17.21.11:767][249]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.04-17.21.35:775][682]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.21.35:813][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.06.04-17.21.36:246][705]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter09565B6A4F6AA21D7BA10F930CD45B6D.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.21.36:258][705]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.21.36:258][705]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.22.39:942][478]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.22.39:980][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.06.04-17.22.40:391][500]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotterD66D81FF4CC23182AF2EFA82D68D2CC4.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.22.40:401][500]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.22.40:401][500]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.24.16:202][235]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.24.16:241][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.06.04-17.24.17:314][295]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter645FCD0E44029EEED24BC7965F468C07.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.24.17:325][295]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.24.17:325][295]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.25.14:051][682]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.25.14:091][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.06.04-17.25.14:955][730]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotterB30817624F80CB1B1B8390936C7BF6AC.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.25.14:966][730]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.25.14:966][730]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.26.59:036][940]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.04-17.27.51:099][ 34]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.27.51:141][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.06.04-17.27.51:605][ 58]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter56A653184D5C89133BE7B3BEE5537EEA.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.27.51:616][ 58]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.27.51:616][ 58]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.36.37:040][330]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.04-17.36.56:184][470]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.36.56:225][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.06.04-17.36.56:622][490]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter604E6267452C1420A7CD9EBCA9C185FC.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.36.56:634][490]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.36.56:634][490]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.37.38:778][ 10]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.04-17.38.27:868][940]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.38.27:908][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.06.04-17.38.28:340][961]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter14DE993745985278AC93EA8A175EA4AD.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.38.28:354][961]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.38.28:354][961]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.39.37:736][107]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.39.37:777][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.06.04-17.39.38:582][150]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotterE1FEDC8D4E5168C8E74CF3AB21A27407.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.39.38:594][150]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.39.38:594][150]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.40.37:400][661]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.40.37:449][661]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.06.04-17.40.37:948][686]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter30191494496C38D7F0FC0DA1A5A33C58.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.40.37:960][686]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.40.37:960][686]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.41.29:983][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.06.04-17.41.29:985][792]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.028
+[2021.06.04-17.41.29:985][792]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter] ([1] browsable assets)...
+[2021.06.04-17.41.29:985][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter]
+[2021.06.04-17.41.30:014][792]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter_Auto2F8CC58D24701214D3F4C6A9D5D792E78.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Autosaves/Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter_Auto2.uasset'
+[2021.06.04-17.41.30:014][792]LogFileHelpers: Auto-saving content packages took 0.029
+[2021.06.04-17.41.40:047][394]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.41.40:054][394]LogBlueprint: Error: [AssetLog] C:\Users\Calv182\Documents\GitHub\Team777-VI\Content\SideScrollerBP\Team777\Tracks\Level2_HarryPotter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2021.06.04-17.41.40:054][394]LogBlueprint: Error: [AssetLog] C:\Users\Calv182\Documents\GitHub\Team777-VI\Content\SideScrollerBP\Team777\Tracks\Level2_HarryPotter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2021.06.04-17.41.40:091][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.06.04-17.41.40:513][414]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter5B9859BC4AAF6A6D081FE69A1D726F94.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.41.40:523][414]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.41.40:523][414]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.41.49:780][965]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.41.49:822][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.06.04-17.41.50:298][988]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter7E963A3D4572A31E75CA79B59D60963B.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.41.50:310][988]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.41.50:310][988]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.43.53:188][347]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.43.53:235][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.06.04-17.43.53:971][385]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter0BE7D5DA446069BD24945B95E2239B33.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.43.53:983][385]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.43.53:983][385]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.44.39:421][103]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.44.39:465][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.06.04-17.44.40:124][136]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter3F3DDAF447F009D7EA25FB8286EC8802.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.44.40:136][136]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.44.40:136][136]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.48.26:213][672]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.04-17.48.53:887][320]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.48.53:935][320]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.06.04-17.48.54:546][349]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter33EB10D74F9F121F631969B1F2727480.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.48.54:559][349]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.48.54:559][349]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.49.31:306][538]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.49.31:352][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.06.04-17.49.32:020][571]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter825E1DAF49782CCCC2D5579BFF3A3F56.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.49.32:031][571]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.49.32:031][571]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.49.50:450][671]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.04-17.50.00:319][254]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.50.00:365][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.06.04-17.50.00:949][282]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotterC95E85EF4AEFACB3074925A86F6AAF6A.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.50.00:962][282]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.50.00:962][282]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.51.04:023][ 10]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.51.04:071][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.06.04-17.51.04:534][ 31]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotterD20C967B4047F1B8B95561BE96D1A3D2.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.51.04:547][ 31]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.51.04:547][ 31]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.52.07:539][766]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.04-17.52.23:433][708]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.52.23:481][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.06.04-17.52.24:417][757]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter277F64B142B170D3A20B5EBB69FE47A2.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.52.24:429][757]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.52.24:429][757]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.53.08:759][377]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.04-17.53.31:619][739]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.53.31:627][739]LogBlueprint: Error: [AssetLog] C:\Users\Calv182\Documents\GitHub\Team777-VI\Content\SideScrollerBP\Team777\Tracks\Level2_HarryPotter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2021.06.04-17.53.31:628][739]LogBlueprint: Error: [AssetLog] C:\Users\Calv182\Documents\GitHub\Team777-VI\Content\SideScrollerBP\Team777\Tracks\Level2_HarryPotter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2021.06.04-17.53.31:666][739]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.06.04-17.53.32:321][771]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter8FC5B83A47410AF2C34E679A1C0D40D4.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.53.32:332][771]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.53.32:333][771]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.53.45:088][532]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.53.45:137][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.06.04-17.53.45:694][558]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter4F9EF1424F62B8AC2D3E61BD9DE3BE5B.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.53.45:705][558]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.53.45:705][558]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.54.27:289][ 23]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.54.27:339][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.06.04-17.54.27:926][ 51]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter15ACE2D744A8E93A936409B0069F4826.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.54.27:938][ 51]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.54.27:938][ 51]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.54.59:652][938]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.54.59:704][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.06.04-17.55.00:177][958]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotterE9490A044855EF3ABE914B90F83A9135.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.55.00:188][958]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.55.00:188][958]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.55.20:236][154]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-17.55.20:287][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.06.04-17.55.21:054][192]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter1BBCBAC14C533CD28BBBAE9630211199.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-17.55.21:068][192]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-17.55.21:068][192]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-17.56.27:099][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.06.04-17.56.27:102][142]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.027
+[2021.06.04-17.56.27:102][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter] ([1] browsable assets)...
+[2021.06.04-17.56.27:102][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter]
+[2021.06.04-17.56.27:152][142]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter_Auto36EBF930946D6B660772E87A349743C9E.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Autosaves/Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter_Auto3.uasset'
+[2021.06.04-17.56.27:152][142]LogFileHelpers: Auto-saving content packages took 0.051
+[2021.06.04-18.01.51:423][563]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.04-18.02.03:620][288]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-18.02.03:673][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.06.04-18.02.04:296][317]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter57F36CF8431792E334B008A8D62DA650.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-18.02.04:307][317]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-18.02.04:307][317]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-18.02.38:563][359]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.04-18.03.15:408][551]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-18.03.15:458][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.06.04-18.03.16:330][595]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter6DB222C94FAF6E8C60C34F888D622C9A.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-18.03.16:342][595]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-18.03.16:342][595]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-18.05.01:925][902]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-18.05.01:980][902]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.06.04-18.05.02:994][952]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter2A74DC83437CBC597C9AEE88F2962BB9.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-18.05.03:008][952]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-18.05.03:008][952]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-18.08.16:170][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.06.04-18.08.16:173][438]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.030
+[2021.06.04-18.08.16:174][438]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter] ([1] browsable assets)...
+[2021.06.04-18.08.16:174][438]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter]
+[2021.06.04-18.08.16:234][438]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter_Auto4E7D8322841EFB6DF19698E9E963EBBEA.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Autosaves/Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter_Auto4.uasset'
+[2021.06.04-18.08.16:234][438]LogFileHelpers: Auto-saving content packages took 0.061
+[2021.06.04-18.09.39:875][406]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-18.09.39:930][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.06.04-18.09.40:471][429]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotterCAC26D1B43B1B606AC781F974468137C.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-18.09.40:485][429]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-18.09.40:485][429]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-18.11.11:292][824]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-18.11.11:347][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.06.04-18.11.12:517][885]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter068FD00D47417CEC24362C9D1AEDBB1E.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-18.11.12:530][885]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-18.11.12:530][885]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-18.11.14:971][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.06.04-18.12.34:460][799]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-18.12.34:514][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.06.04-18.12.35:083][824]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter31BC113741CBCC58226D27B56B24C962.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-18.12.35:095][824]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-18.12.35:095][824]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-18.14.11:652][573]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-18.14.11:709][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.06.04-18.14.12:681][621]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter4D40A9844CDD0163D845A689091A9D90.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-18.14.12:692][621]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-18.14.12:693][621]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-18.16.30:623][870]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-18.16.30:681][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.06.04-18.16.31:166][889]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotterCB989DD442D16A52C4E8329588630ECA.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-18.16.31:178][889]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-18.16.31:178][889]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-18.17.07:791][ 73]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.04-18.18.29:075][917]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-18.18.29:134][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.06.04-18.18.29:782][945]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotterE2C21D65402A013E4EB257B9D15AFDC9.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-18.18.29:794][945]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-18.18.29:794][945]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-18.19.31:739][643]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.04-18.20.19:048][456]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-18.20.19:107][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.06.04-18.20.19:563][472]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotterB6131EA9460FCBD5462D8D885EF4C573.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-18.20.19:575][472]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-18.20.19:575][472]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-18.20.43:339][884]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-18.20.43:400][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.06.04-18.20.43:871][901]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter9B33443C4F0DC1CC196F25AB96A1BAF9.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-18.20.43:883][901]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-18.20.43:883][901]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-18.21.08:515][349]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.04-18.21.36:371][  1]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-18.21.36:431][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.06.04-18.21.37:110][ 30]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter3A795B3B4E51CB67C4317F80DB44FEA5.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-18.21.37:122][ 30]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-18.21.37:122][ 30]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-18.22.08:047][870]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-18.22.08:108][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.06.04-18.22.08:707][894]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotterC4955ED54643D51DFEF1CBBAECAE993F.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-18.22.08:720][894]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-18.22.08:720][894]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-18.22.34:965][457]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.04-18.24.00:554][531]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-18.24.00:620][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.06.04-18.24.01:219][554]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotterDDA3D3874786849CA8172A8118CF5CB9.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-18.24.01:230][554]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-18.24.01:231][554]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-18.24.57:005][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.06.04-18.24.57:008][885]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.027
+[2021.06.04-18.24.57:008][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter] ([1] browsable assets)...
+[2021.06.04-18.24.57:008][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter]
+[2021.06.04-18.24.57:093][885]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotter_Auto5E574217D49EE571B5E075EB7EFD382F3.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Autosaves/Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter_Auto5.uasset'
+[2021.06.04-18.24.57:094][885]LogFileHelpers: Auto-saving content packages took 0.086
+[2021.06.04-18.26.31:206][528]BlueprintLog: New page: Compile Level2_HarryPotter
+[2021.06.04-18.26.31:267][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.06.04-18.26.32:018][560]LogSavePackage: Moving '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Saved/Level2_HarryPotterF9355CFC4683773665AB6C901725654E.tmp' to '../../../../../../Users/Calv182/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.uasset'
+[2021.06.04-18.26.32:032][560]AssetCheck: New page: Asset Save: Level2_HarryPotter
+[2021.06.04-18.26.32:032][560]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Team777/Tracks/Level2_HarryPotter.Level2_HarryPotter
+[2021.06.04-18.26.39:941][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.06.04-18.28.32:649][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.06.04-18.28.34:461][456]LogSlate: Window 'Level2_HarryPotter' being destroyed
+[2021.06.04-18.28.34:466][456]LogSlate: Window 'Level2_HarryPotter' being destroyed
+[2021.06.04-18.28.34:472][456]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-18.28.34:472][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-18.28.34:645][456]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.04-18.28.34:645][456]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-18.28.34:645][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-18.30.46:965][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.06.04-18.30.48:452][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.06.04-18.30.48:496][798]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.04-18.30.48:496][798]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-18.30.48:496][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-18.30.48:588][798]LogSlate: Window 'BounceTest1 - Unreal Editor' being destroyed
+[2021.06.04-18.30.48:715][799]Cmd: QUIT_EDITOR
+[2021.06.04-18.30.48:715][799]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.06.04-18.30.48:721][799]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.06.04-18.30.48:900][799]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.06.04-18.30.48:900][799]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.06.04-18.30.48:900][799]LogAudio: Display: Audio Device unregistered from world 'SideScrollerExampleMap'.
+[2021.06.04-18.30.48:900][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.04-18.30.48:901][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.04-18.30.49:008][799]LogAudio: Display: Audio Device Manager Shutdown
+[2021.06.04-18.30.49:008][799]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.04-18.30.49:015][799]LogExit: Preparing to exit.
+[2021.06.04-18.30.49:174][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.06.04-18.30.49:266][799]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-18.30.49:267][799]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-18.30.49:268][799]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-18.30.49:269][799]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-18.30.49:269][799]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-18.30.49:270][799]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-18.30.49:271][799]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-18.30.49:271][799]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-18.30.49:272][799]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-18.30.49:272][799]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A876200] Windows
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A876300] Default__DeviceProfile
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A80EB00] WindowsNoEditor
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A875200] WindowsServer
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A80FA00] WindowsClient
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A874200] IOS
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A80CE00] iPadAir
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A874E00] iPadAir2
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7BE200] IPadPro
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7BE300] iPadAir3
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A80EF00] iPadAir4
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7BFB00] iPadMini2
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A80D800] iPadMini3
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7BD500] iPadMini4
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A80D600] iPadMini5
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E5B00] iPhone6
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E5C00] iPodTouch6
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7BDE00] iPhone7
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7BDC00] iPodTouch7
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E7300] iPhone5S
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7BE500] iPhone6Plus
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E5700] iPhone6S
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7BEA00] iPhone6SPlus
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E4700] iPhone7Plus
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7BF000] iPhoneSE
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E6E00] iPhone8
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7BC900] iPhone8Plus
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E5500] iPhoneX
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7BE600] iPhoneXS
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E6D00] iPhoneXSMax
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7BFF00] iPhoneXR
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E4B00] iPhone11
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7BF500] iPhone11Pro
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E7F00] iPhone11ProMax
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7BE700] iPhoneSE2
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E4A00] iPhone12Mini
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7BEB00] iPhone12
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E7100] iPhone12Pro
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A876A00] iPhone12ProMax
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E7900] iPadPro105
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A876400] iPadPro129
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E6800] iPadPro97
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A874900] iPadPro2_129
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E5200] iPad5
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A875F00] iPad6
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E4100] iPad7
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A877800] iPad8
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E6300] iPadPro11
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A875900] iPadPro2_11
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E6600] iPadPro3_129
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A875E00] iPadPro4_129
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E4D00] AppleTV
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A874D00] AppleTV4K
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E7D00] TVOS
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A874C00] Mac
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E7500] MacClient
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A874F00] MacNoEditor
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E7A00] MacServer
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A874A00] Linux
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E5900] LinuxNoEditor
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A874B00] LinuxAArch64NoEditor
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E7600] LinuxClient
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A877B00] LinuxAArch64Client
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E5300] LinuxServer
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A876600] LinuxAArch64Server
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E4E00] Android
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A877500] Android_Low
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E5E00] Android_Mid
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A877000] Android_High
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E6200] Android_Default
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A875D00] Android_Adreno4xx
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E4300] Android_Adreno5xx_Low
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A876D00] Android_Adreno5xx
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E4F00] Android_Adreno6xx
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A874800] Android_Adreno6xx_Vulkan
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E7400] Android_Mali_T6xx
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A875500] Android_Mali_T7xx
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E4400] Android_Mali_T8xx
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A875800] Android_Mali_G71
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E6A00] Android_Mali_G72
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A877600] Android_Mali_G72_Vulkan
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7E6900] Android_Mali_G76
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A877400] Android_Mali_G76_Vulkan
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A80FF00] Android_Mali_G77
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7BF700] Android_Mali_G77_Vulkan
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A80E300] Android_Vulkan_SM5
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7BFD00] Android_PowerVR_G6xxx
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A80C100] Android_PowerVR_GT7xxx
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A7BF300] Android_PowerVR_GE8xxx
+[2021.06.04-18.30.49:318][799]LogDeviceProfile: Device profile begin destroy: [000002875A80FB00] Android_PowerVR_GM9xxx
+[2021.06.04-18.30.49:319][799]LogDeviceProfile: Device profile begin destroy: [000002875A7BDF00] Android_PowerVR_GM9xxx_Vulkan
+[2021.06.04-18.30.49:319][799]LogDeviceProfile: Device profile begin destroy: [000002875A80CB00] Android_TegraK1
+[2021.06.04-18.30.49:319][799]LogDeviceProfile: Device profile begin destroy: [000002875A7BC400] Android_Unknown_Vulkan
+[2021.06.04-18.30.49:319][799]LogDeviceProfile: Device profile begin destroy: [000002875A80E600] Lumin
+[2021.06.04-18.30.49:319][799]LogDeviceProfile: Device profile begin destroy: [000002875A7BD700] Lumin_Desktop
+[2021.06.04-18.30.49:319][799]LogDeviceProfile: Device profile begin destroy: [000002875A80D900] HoloLens
+[2021.06.04-18.30.49:348][799]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-18.30.49:349][799]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-18.30.49:349][799]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-18.30.49:373][799]LogExit: Editor shut down
+[2021.06.04-18.30.49:375][799]LogExit: Transaction tracking system shut down
+[2021.06.04-18.30.49:396][799]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.06.04-18.30.49:771][799]LogExit: Object subsystem successfully closed.
+[2021.06.04-18.30.49:809][799]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.06.04-18.30.49:841][799]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (840)
+[2021.06.04-18.30.49:841][799]LogModuleManager: Shutting down and abandoning module Voice (838)
+[2021.06.04-18.30.49:841][799]LogModuleManager: Shutting down and abandoning module SequencerWidgets (836)
+[2021.06.04-18.30.49:841][799]LogModuleManager: Shutting down and abandoning module BlueprintGraph (834)
+[2021.06.04-18.30.49:842][799]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (832)
+[2021.06.04-18.30.49:842][799]LogModuleManager: Shutting down and abandoning module SceneOutliner (830)
+[2021.06.04-18.30.49:842][799]LogModuleManager: Shutting down and abandoning module AddContentDialog (828)
+[2021.06.04-18.30.49:843][799]LogModuleManager: Shutting down and abandoning module WidgetCarousel (827)
+[2021.06.04-18.30.49:843][799]LogModuleManager: Shutting down and abandoning module EditorWidgets (824)
+[2021.06.04-18.30.49:843][799]LogModuleManager: Shutting down and abandoning module StatsViewer (820)
+[2021.06.04-18.30.49:843][799]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (818)
+[2021.06.04-18.30.49:843][799]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (816)
+[2021.06.04-18.30.49:843][799]LogModuleManager: Shutting down and abandoning module AutomationWorker (814)
+[2021.06.04-18.30.49:843][799]LogModuleManager: Shutting down and abandoning module SteamVREditor (812)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module OculusMR (810)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module GooglePADEditor (808)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (806)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (804)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (802)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (800)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (798)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module PlanarCut (796)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (794)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (792)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (790)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (788)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module WebMMedia (786)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (784)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (782)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module SequenceRecorder (781)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (778)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (776)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (774)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (772)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (770)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (768)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (766)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module CharacterAI (764)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (762)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (760)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (758)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module TextureAlignMode (756)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module BspMode (754)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module GeometryMode (752)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (750)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module SmartSnapping (748)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module SessionServices (746)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module MeshPaint (744)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (742)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module FoliageEdit (740)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module LandscapeEditor (738)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module MeshPaintMode (736)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (734)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module ActorPickerMode (732)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module PlacementMode (730)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module ViewportSnapping (728)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module ViewportInteraction (726)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module ClothPainter (724)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (723)
+[2021.06.04-18.30.49:844][799]LogModuleManager: Shutting down and abandoning module LogVisualizer (720)
+[2021.06.04-18.30.49:845][799]LogModuleManager: Shutting down and abandoning module IntroTutorials (718)
+[2021.06.04-18.30.49:845][799]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (717)
+[2021.06.04-18.30.49:845][799]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (714)
+[2021.06.04-18.30.49:845][799]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (712)
+[2021.06.04-18.30.49:845][799]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (710)
+[2021.06.04-18.30.49:845][799]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (709)
+[2021.06.04-18.30.51:586][799]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (706)
+[2021.06.04-18.30.51:586][799]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (704)
+[2021.06.04-18.30.51:586][799]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (702)
+[2021.06.04-18.30.51:586][799]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (700)
+[2021.06.04-18.30.51:586][799]LogModuleManager: Shutting down and abandoning module TraceInsights (698)
+[2021.06.04-18.30.51:586][799]MemoryProfiler: Shutdown
+[2021.06.04-18.30.51:586][799]NetworkingProfiler: Shutdown
+[2021.06.04-18.30.51:586][799]LoadingProfiler: Shutdown
+[2021.06.04-18.30.51:586][799]TimingProfiler: Shutdown
+[2021.06.04-18.30.51:586][799]LogModuleManager: Shutting down and abandoning module TraceServices (697)
+[2021.06.04-18.30.51:586][799]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (694)
+[2021.06.04-18.30.51:586][799]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (692)
+[2021.06.04-18.30.51:586][799]LogModuleManager: Shutting down and abandoning module InputBindingEditor (690)
+[2021.06.04-18.30.51:586][799]LogModuleManager: Shutting down and abandoning module MergeActors (688)
+[2021.06.04-18.30.51:586][799]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (686)
+[2021.06.04-18.30.51:586][799]LogModuleManager: Shutting down and abandoning module LocalizationService (685)
+[2021.06.04-18.30.51:586][799]LogModuleManager: Shutting down and abandoning module HardwareTargeting (682)
+[2021.06.04-18.30.51:586][799]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (680)
+[2021.06.04-18.30.51:586][799]LogModuleManager: Shutting down and abandoning module UndoHistory (678)
+[2021.06.04-18.30.51:586][799]LogModuleManager: Shutting down and abandoning module XmlParser (676)
+[2021.06.04-18.30.51:586][799]LogModuleManager: Shutting down and abandoning module Blutility (674)
+[2021.06.04-18.30.51:586][799]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (672)
+[2021.06.04-18.30.51:586][799]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (671)
+[2021.06.04-18.30.51:587][799]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (668)
+[2021.06.04-18.30.51:587][799]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (667)
+[2021.06.04-18.30.51:587][799]LogModuleManager: Shutting down and abandoning module SettingsEditor (664)
+[2021.06.04-18.30.51:587][799]LogModuleManager: Shutting down and abandoning module ProjectLauncher (662)
+[2021.06.04-18.30.51:587][799]LogModuleManager: Shutting down and abandoning module SessionFrontend (660)
+[2021.06.04-18.30.51:587][799]LogModuleManager: Shutting down and abandoning module ProfilerClient (658)
+[2021.06.04-18.30.51:587][799]LogModuleManager: Shutting down and abandoning module DeviceManager (656)
+[2021.06.04-18.30.51:587][799]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (655)
+[2021.06.04-18.30.51:619][799]LogModuleManager: Shutting down and abandoning module AutomationController (652)
+[2021.06.04-18.30.51:619][799]LogModuleManager: Shutting down and abandoning module AutomationWindow (650)
+[2021.06.04-18.30.51:619][799]LogModuleManager: Shutting down and abandoning module Layers (648)
+[2021.06.04-18.30.51:619][799]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (646)
+[2021.06.04-18.30.51:619][799]LogModuleManager: Shutting down and abandoning module DetailCustomizations (644)
+[2021.06.04-18.30.51:619][799]LogModuleManager: Shutting down and abandoning module PackagesDialog (642)
+[2021.06.04-18.30.51:619][799]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (640)
+[2021.06.04-18.30.51:619][799]LogModuleManager: Shutting down and abandoning module Persona (638)
+[2021.06.04-18.30.51:619][799]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (637)
+[2021.06.04-18.30.51:619][799]LogModuleManager: Shutting down and abandoning module AnimGraph (635)
+[2021.06.04-18.30.51:619][799]LogModuleManager: Shutting down and abandoning module Kismet (632)
+[2021.06.04-18.30.51:630][799]LogModuleManager: Shutting down and abandoning module KismetWidgets (631)
+[2021.06.04-18.30.51:630][799]LogModuleManager: Shutting down and abandoning module GraphEditor (628)
+[2021.06.04-18.30.51:630][799]LogModuleManager: Shutting down and abandoning module StructViewer (626)
+[2021.06.04-18.30.51:630][799]LogModuleManager: Shutting down and abandoning module ClassViewer (624)
+[2021.06.04-18.30.51:632][799]LogModuleManager: Shutting down and abandoning module Toolbox (622)
+[2021.06.04-18.30.51:632][799]LogModuleManager: Shutting down and abandoning module ModuleUI (620)
+[2021.06.04-18.30.51:632][799]LogModuleManager: Shutting down and abandoning module OutputLog (618)
+[2021.06.04-18.30.51:634][799]LogModuleManager: Shutting down and abandoning module GammaUI (616)
+[2021.06.04-18.30.51:634][799]LogModuleManager: Shutting down and abandoning module Documentation (614)
+[2021.06.04-18.30.51:637][799]LogModuleManager: Shutting down and abandoning module LiveCoding (612)
+[2021.06.04-18.30.51:637][799]LogModuleManager: Shutting down and abandoning module LevelSequence (610)
+[2021.06.04-18.30.51:637][799]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (608)
+[2021.06.04-18.30.51:637][799]LogModuleManager: Shutting down and abandoning module MovieScene (606)
+[2021.06.04-18.30.51:637][799]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (604)
+[2021.06.04-18.30.51:637][799]LogModuleManager: Shutting down and abandoning module LauncherPlatform (602)
+[2021.06.04-18.30.51:637][799]LogModuleManager: Shutting down and abandoning module AnalyticsET (600)
+[2021.06.04-18.30.51:637][799]LogModuleManager: Shutting down and abandoning module PortalServices (598)
+[2021.06.04-18.30.51:637][799]LogModuleManager: Shutting down and abandoning module PortalRpc (596)
+[2021.06.04-18.30.51:637][799]LogModuleManager: Shutting down and abandoning module MessagingRpc (594)
+[2021.06.04-18.30.51:637][799]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (592)
+[2021.06.04-18.30.51:637][799]LogModuleManager: Shutting down and abandoning module AudioMixerCore (591)
+[2021.06.04-18.30.51:637][799]LogModuleManager: Shutting down and abandoning module AIModule (588)
+[2021.06.04-18.30.51:637][799]LogModuleManager: Shutting down and abandoning module GameplayDebugger (587)
+[2021.06.04-18.30.51:637][799]LogModuleManager: Shutting down and abandoning module AITestSuite (585)
+[2021.06.04-18.30.51:637][799]LogModuleManager: Shutting down and abandoning module NavigationSystem (583)
+[2021.06.04-18.30.51:637][799]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (580)
+[2021.06.04-18.30.51:641][799]LogModuleManager: Shutting down and abandoning module ProfilerService (578)
+[2021.06.04-18.30.51:839][799]LogModuleManager: Shutting down and abandoning module TaskGraph (576)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (574)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module MegascansPlugin (572)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module OculusEditor (570)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module OculusInput (568)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module SQLiteSupport (566)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module DatabaseSupport (564)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (562)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (560)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (558)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module CollectionManager (557)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (554)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (552)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module UObjectPlugin (550)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (548)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (546)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module PluginUtils (544)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (542)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (540)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (538)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module GitSourceControl (536)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module SourceControl (535)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module ScreenshotTools (532)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module SynthesisEditor (530)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module Synthesis (528)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (526)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (524)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module CableComponent (514)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module AssetTags (512)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module AudioCapture (510)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (509)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (498)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (496)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (492)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module MotoSynth (490)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module MediaCompositing (488)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module ImgMedia (486)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module MeshConversion (484)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module DynamicMesh (482)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (480)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module GeometricObjects (478)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (476)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (475)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (472)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (470)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (468)
+[2021.06.04-18.30.51:840][799]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (466)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module ChaosNiagara (464)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (462)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module FractureEditor (460)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (459)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (456)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module BackChannel (454)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (452)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module AutomationUtils (450)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module AlembicImporter (448)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module AlembicLibrary (447)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module GeometryCache (446)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (445)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (440)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (438)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (436)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (434)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (432)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (430)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (428)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module PluginBrowser (426)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (424)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module CurveEditorTools (422)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (420)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (418)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module CryptoKeys (416)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (414)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (412)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (410)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (408)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (406)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (404)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (402)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module Paper2DEditor (400)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (398)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (396)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module SQLiteCore (394)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (392)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module SoundFields (390)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module SignificanceManager (388)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (386)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (384)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (382)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (378)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (376)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (374)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module ActorSequence (372)
+[2021.06.04-18.30.51:841][799]LogModuleManager: Shutting down and abandoning module UdpMessaging (370)
+[2021.06.04-18.30.51:943][799]LogModuleManager: Shutting down and abandoning module TcpMessaging (368)
+[2021.06.04-18.30.52:043][799]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (366)
+[2021.06.04-18.30.52:043][799]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (364)
+[2021.06.04-18.30.52:043][799]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (362)
+[2021.06.04-18.30.52:043][799]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (360)
+[2021.06.04-18.30.52:043][799]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (358)
+[2021.06.04-18.30.52:043][799]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (356)
+[2021.06.04-18.30.52:043][799]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.06.04-18.30.52:043][799]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (354)
+[2021.06.04-18.30.52:043][799]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (352)
+[2021.06.04-18.30.52:043][799]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (350)
+[2021.06.04-18.30.52:043][799]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (348)
+[2021.06.04-18.30.52:043][799]LogModuleManager: Shutting down and abandoning module MagicLeapController (346)
+[2021.06.04-18.30.52:043][799]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.06.04-18.30.52:044][799]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (344)
+[2021.06.04-18.30.52:044][799]LogModuleManager: Shutting down and abandoning module MagicLeapAR (342)
+[2021.06.04-18.30.52:044][799]LogModuleManager: Shutting down and abandoning module AugmentedReality (341)
+[2021.06.04-18.30.52:044][799]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (338)
+[2021.06.04-18.30.52:044][799]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (336)
+[2021.06.04-18.30.52:044][799]LogModuleManager: Shutting down and abandoning module FacialAnimation (334)
+[2021.06.04-18.30.52:044][799]LogModuleManager: Shutting down and abandoning module DataValidation (332)
+[2021.06.04-18.30.52:044][799]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (330)
+[2021.06.04-18.30.52:044][799]LogModuleManager: Shutting down and abandoning module LevelEditor (329)
+[2021.06.04-18.30.52:045][799]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (328)
+[2021.06.04-18.30.52:045][799]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (326)
+[2021.06.04-18.30.52:045][799]LogModuleManager: Shutting down and abandoning module MainFrame (324)
+[2021.06.04-18.30.52:045][799]LogModuleManager: Shutting down and abandoning module HotReload (323)
+[2021.06.04-18.30.52:045][799]LogModuleManager: Shutting down and abandoning module ToolMenus (319)
+[2021.06.04-18.30.52:045][799]LogModuleManager: Shutting down and abandoning module ContentBrowser (317)
+[2021.06.04-18.30.52:045][799]LogModuleManager: Shutting down and abandoning module ContentBrowserData (316)
+[2021.06.04-18.30.52:045][799]LogModuleManager: Shutting down and abandoning module TreeMap (313)
+[2021.06.04-18.30.52:045][799]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (310)
+[2021.06.04-18.30.52:045][799]LogModuleManager: Shutting down and abandoning module Niagara (308)
+[2021.06.04-18.30.52:045][799]LogModuleManager: Shutting down and abandoning module SignalProcessing (307)
+[2021.06.04-18.30.52:045][799]LogModuleManager: Shutting down and abandoning module NiagaraEditor (305)
+[2021.06.04-18.30.52:045][799]LogModuleManager: Shutting down and abandoning module NiagaraCore (302)
+[2021.06.04-18.30.52:045][799]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (300)
+[2021.06.04-18.30.52:045][799]LogModuleManager: Shutting down and abandoning module AnimationSharing (298)
+[2021.06.04-18.30.52:045][799]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (296)
+[2021.06.04-18.30.52:045][799]LogModuleManager: Shutting down and abandoning module Paper2D (294)
+[2021.06.04-18.30.52:045][799]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (292)
+[2021.06.04-18.30.52:054][799]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (290)
+[2021.06.04-18.30.52:054][799]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (288)
+[2021.06.04-18.30.52:054][799]LogModuleManager: Shutting down and abandoning module PacketHandler (286)
+[2021.06.04-18.30.52:054][799]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (284)
+[2021.06.04-18.30.52:054][799]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (282)
+[2021.06.04-18.30.52:054][799]LogModuleManager: Shutting down and abandoning module MediaAssets (280)
+[2021.06.04-18.30.52:054][799]LogModuleManager: Shutting down and abandoning module Overlay (278)
+[2021.06.04-18.30.52:054][799]LogModuleManager: Shutting down and abandoning module OverlayEditor (277)
+[2021.06.04-18.30.52:054][799]LogModuleManager: Shutting down and abandoning module VREditor (274)
+[2021.06.04-18.30.52:054][799]LogModuleManager: Shutting down and abandoning module StringTableEditor (272)
+[2021.06.04-18.30.52:054][799]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (270)
+[2021.06.04-18.30.52:054][799]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (268)
+[2021.06.04-18.30.52:054][799]LogModuleManager: Shutting down and abandoning module FunctionalTesting (266)
+[2021.06.04-18.30.52:054][799]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (264)
+[2021.06.04-18.30.52:054][799]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (263)
+[2021.06.04-18.30.52:054][799]LogModuleManager: Shutting down and abandoning module UMG (260)
+[2021.06.04-18.30.52:054][799]LogModuleManager: Shutting down and abandoning module UMGEditor (259)
+[2021.06.04-18.30.52:054][799]LogModuleManager: Shutting down and abandoning module MessageLog (257)
+[2021.06.04-18.30.52:054][799]LogModuleManager: Shutting down and abandoning module SlateReflector (252)
+[2021.06.04-18.30.52:054][799]LogModuleManager: Shutting down and abandoning module Slate (250)
+[2021.06.04-18.30.52:054][799]LogModuleManager: Shutting down and abandoning module SlateCore (248)
+[2021.06.04-18.30.52:055][799]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (246)
+[2021.06.04-18.30.52:055][799]LogModuleManager: Shutting down and abandoning module UnrealEd (244)
+[2021.06.04-18.30.52:055][799]LogModuleManager: Shutting down and abandoning module MRMesh (242)
+[2021.06.04-18.30.52:055][799]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (240)
+[2021.06.04-18.30.52:055][799]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (238)
+[2021.06.04-18.30.52:055][799]LogModuleManager: Shutting down and abandoning module XAudio2 (236)
+[2021.06.04-18.30.52:055][799]LogModuleManager: Shutting down and abandoning module Networking (234)
+[2021.06.04-18.30.52:055][799]LogModuleManager: Shutting down and abandoning module Core (232)
+[2021.06.04-18.30.52:055][799]LogModuleManager: Shutting down and abandoning module MovieSceneTools (230)
+[2021.06.04-18.30.52:055][799]LogModuleManager: Shutting down and abandoning module CurveEditor (229)
+[2021.06.04-18.30.52:055][799]LogModuleManager: Shutting down and abandoning module Sequencer (227)
+[2021.06.04-18.30.52:055][799]LogModuleManager: Shutting down and abandoning module EditorStyle (226)
+[2021.06.04-18.30.52:057][799]LogModuleManager: Shutting down and abandoning module KismetCompiler (222)
+[2021.06.04-18.30.52:057][799]LogModuleManager: Shutting down and abandoning module MeshBuilder (220)
+[2021.06.04-18.30.52:057][799]LogModuleManager: Shutting down and abandoning module MeshUtilities (218)
+[2021.06.04-18.30.52:057][799]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (217)
+[2021.06.04-18.30.52:057][799]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (216)
+[2021.06.04-18.30.52:057][799]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (215)
+[2021.06.04-18.30.52:057][799]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (213)
+[2021.06.04-18.30.52:057][799]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (211)
+[2021.06.04-18.30.52:057][799]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (209)
+[2021.06.04-18.30.52:057][799]LogModuleManager: Shutting down and abandoning module MaterialBaking (205)
+[2021.06.04-18.30.52:057][799]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (200)
+[2021.06.04-18.30.52:057][799]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2021.06.04-18.30.52:057][799]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2021.06.04-18.30.52:057][799]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (195)
+[2021.06.04-18.30.52:058][799]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (193)
+[2021.06.04-18.30.52:058][799]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2021.06.04-18.30.52:058][799]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2021.06.04-18.30.52:058][799]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (187)
+[2021.06.04-18.30.52:058][799]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (185)
+[2021.06.04-18.30.52:058][799]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (183)
+[2021.06.04-18.30.52:058][799]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (181)
+[2021.06.04-18.30.52:058][799]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (179)
+[2021.06.04-18.30.52:058][799]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (177)
+[2021.06.04-18.30.52:058][799]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (175)
+[2021.06.04-18.30.52:058][799]LogModuleManager: Shutting down and abandoning module ImageWrapper (174)
+[2021.06.04-18.30.52:058][799]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (171)
+[2021.06.04-18.30.52:058][799]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (169)
+[2021.06.04-18.30.52:058][799]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (167)
+[2021.06.04-18.30.52:058][799]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (165)
+[2021.06.04-18.30.52:058][799]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (163)
+[2021.06.04-18.30.52:058][799]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (161)
+[2021.06.04-18.30.52:058][799]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (159)
+[2021.06.04-18.30.52:058][799]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (157)
+[2021.06.04-18.30.52:063][799]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (155)
+[2021.06.04-18.30.52:063][799]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (153)
+[2021.06.04-18.30.52:063][799]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (151)
+[2021.06.04-18.30.52:063][799]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (149)
+[2021.06.04-18.30.52:063][799]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (147)
+[2021.06.04-18.30.52:072][799]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (145)
+[2021.06.04-18.30.52:072][799]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (143)
+[2021.06.04-18.30.52:072][799]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (141)
+[2021.06.04-18.30.52:072][799]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (139)
+[2021.06.04-18.30.52:072][799]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (137)
+[2021.06.04-18.30.52:072][799]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (135)
+[2021.06.04-18.30.52:072][799]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (133)
+[2021.06.04-18.30.52:072][799]LogModuleManager: Shutting down and abandoning module Messaging (131)
+[2021.06.04-18.30.52:072][799]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (129)
+[2021.06.04-18.30.52:076][799]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (127)
+[2021.06.04-18.30.52:090][799]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (125)
+[2021.06.04-18.30.52:090][799]LogModuleManager: Shutting down and abandoning module InputCore (122)
+[2021.06.04-18.30.52:090][799]LogModuleManager: Shutting down and abandoning module Settings (120)
+[2021.06.04-18.30.52:090][799]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (118)
+[2021.06.04-18.30.52:090][799]LogModuleManager: Shutting down and abandoning module PhysXCooking (116)
+[2021.06.04-18.30.52:090][799]LogModuleManager: Shutting down and abandoning module Chaos (114)
+[2021.06.04-18.30.52:090][799]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (112)
+[2021.06.04-18.30.52:090][799]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (111)
+[2021.06.04-18.30.52:090][799]LogModuleManager: Shutting down and abandoning module AVEncoder (110)
+[2021.06.04-18.30.52:090][799]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (106)
+[2021.06.04-18.30.52:091][799]LogModuleManager: Shutting down and abandoning module SteamVRInput (104)
+[2021.06.04-18.30.52:091][799]LogModuleManager: Shutting down and abandoning module SteamVR (102)
+[2021.06.04-18.30.52:091][799]LogHMD: Freeing OpenVRDLLHandle.
+[2021.06.04-18.30.52:091][799]LogModuleManager: Shutting down and abandoning module OculusHMD (100)
+[2021.06.04-18.30.52:091][799]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2021.06.04-18.30.52:091][799]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2021.06.04-18.30.52:091][799]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2021.06.04-18.30.52:091][799]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2021.06.04-18.30.52:092][799]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2021.06.04-18.30.52:092][799]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2021.06.04-18.30.52:126][799]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2021.06.04-18.30.52:126][799]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.06.04-18.30.52:126][799]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4180535B-4171-CA2B-D86A-B287F4E7C2E8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=7b31375c4510de6e2f6a83a676bfce5c%7C9fc4d0101f424bb19b7a82a4bca72860%7C16f71517-7161-4a71-8992-85ecef8b87e8&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.06.04-18.30.52:126][799]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.06.04-18.30.52:157][799]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2021.06.04-18.30.52:159][799]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2021.06.04-18.30.52:159][799]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2021.06.04-18.30.52:160][799]LogModuleManager: Shutting down and abandoning module Media (73)
+[2021.06.04-18.30.52:161][799]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2021.06.04-18.30.52:161][799]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2021.06.04-18.30.52:161][799]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2021.06.04-18.30.52:161][799]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2021.06.04-18.30.52:161][799]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2021.06.04-18.30.52:161][799]LogModuleManager: Shutting down and abandoning module VariantManagerContent (60)
+[2021.06.04-18.30.52:161][799]LogModuleManager: Shutting down and abandoning module DatasmithContent (58)
+[2021.06.04-18.30.52:162][799]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2021.06.04-18.30.52:162][799]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2021.06.04-18.30.52:162][799]LogModuleManager: Shutting down and abandoning module AISupportModule (52)
+[2021.06.04-18.30.52:162][799]LogModuleManager: Shutting down and abandoning module DesktopPlatform (50)
+[2021.06.04-18.30.52:162][799]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (48)
+[2021.06.04-18.30.52:162][799]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.06.04-18.30.52:162][799]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.06.04-18.30.52:162][799]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.06.04-18.30.52:162][799]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.06.04-18.30.52:162][799]LogXGEController: Cleaning working directory: C:/Users/Calv182/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.06.04-18.30.52:162][799]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.06.04-18.30.52:162][799]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.06.04-18.30.52:162][799]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.06.04-18.30.52:163][799]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.06.04-18.30.52:163][799]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.06.04-18.30.52:163][799]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.06.04-18.30.52:163][799]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.06.04-18.30.52:165][799]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.06.04-18.30.52:165][799]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.06.04-18.30.52:165][799]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.06.04-18.30.52:165][799]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.06.04-18.30.52:165][799]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.06.04-18.30.52:165][799]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.06.04-18.30.52:165][799]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.06.04-18.30.52:165][799]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.06.04-18.30.52:165][799]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.06.04-18.30.52:165][799]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.06.04-18.30.52:165][799]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.06.04-18.30.52:165][799]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.06.04-18.30.52:165][799]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.06.04-18.30.52:169][799]LogD3D11RHI: Shutdown
+[2021.06.04-18.30.52:169][799]LogD3D11RHI: CleanupD3DDevice
+[2021.06.04-18.30.52:189][799]LogExit: Exiting.
+[2021.06.04-18.30.52:200][799]Log file closed, 06/04/21 19:30:52
