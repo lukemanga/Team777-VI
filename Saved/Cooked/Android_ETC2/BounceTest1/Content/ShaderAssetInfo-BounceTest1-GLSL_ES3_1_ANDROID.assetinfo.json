@@ -1,0 +1,481 @@
+{
+	"AssetInfoVersion": 1,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "90EB2896E0D8BD0779EAFED4FEF96C5F417B97B7",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C05BF21EC5B8872BBDC1DE63F199289CA62EDF5E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A73F0505BCD9492E59234A540469332A98893367",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BF8DA73A05B5D9953CC46699A9264B471D955765",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3CCFB8D9BA178D1C4C577D014EB13408462F17C7",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset",
+				"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A1F5FA23342A48848652035CE85B1101A563E1AE",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset",
+				"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FF5E507496125896845FB5E695D536D1FF88FC91",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset",
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2AB7CD4D62A2268EE29A0A3A4975C45A586BEE85",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "029D4BC8B4A004AD5B2F4FA798CBEF78DE315226",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "01C4914B787E20701CD5B6F884DAA8F73399B7B5",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "61896EC57986D9A3176151C8974F65048E3B5ABD",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "41184462543EAFBFF583AB956437D34FB0F0F322",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "26961D5EC7699BC38432C3298871E975C87E279E",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D26F59A2E1C87884AD1B51D8ECC31DE3C39F5A11",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D32B024B592549D7B3651D4B0706199D82B023F7",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1E5A93A29182FAF7A29E58674031D39FE1573575",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4E894E20BAF7E886396B8AF4D947FBAA1B8C0EE9",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E982FB60BD1B0668AD7A0109E85F31E8CCCC0B4E",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D271ECEB705E8672A3F534CADBBF13C69672BDC0",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A2024644A094BA248829E467664A3AA1B8FBBBF6",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CF0E0BCE88E6645C3B4725BFE5074CB1CB0F9DEC",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "56AAD9BBF1B4DCA37E1CA3F171AF08C33DC55E33",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4C6F94B1491FBBE9E7EBFFFE4C19C30678FE9F52",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "55B219B6136FC96AECC357E5A2593F66360763DA",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "441F6045484EF88E0A638B42C4EED4451F14B520",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "23A4936D5AC070B4EF61DB999E857ABF0913A869",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "674868FAB59B9281817FB9EEE5550CC89170BB5F",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Wall_Paint.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__7312.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__7311.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__4459.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3386.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3384.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3383.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3382.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3381.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3380.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3379.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3376.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3375.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3374.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3373.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3372.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3362.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3361.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3360.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3359.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3345.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3318.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3317.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3315.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B34DA352BE2E3BC76A3F16F0ED8E23B4FE61047D",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C1B73E791638B21A1D76E64699B544F96D567D36",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6BAE1CCC4D6DCB0F569B335BCC63FA51DF95C717",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A3FF1D2920BBCF76528397038E083A8C8F11A73D",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "82997EAA0B9847B912569EBAFFD351319DC094A7",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2701174C27096ABB6A057A75E810E894BE191769",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "17886232CA2DA2DFD3EF53A68750554A7691D2AD",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D966B2738C4045C725CEF5520194EF283DAD4AF2",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9AD2C1950A9CEEF679B829B91AB5170F14C60D54",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C79A34D93CDB48106CA63AAC94765AFE6B8985CA",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/t_title_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E51B82F522EBD7FBC7EF6B4D36720E055C612F58",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3316.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "19255E876FF0D01B083FEBB83D9C63DA18082C05",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Hazards/01_-_Default.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F670C7B6DA67791F843FA1836BDF61AED4382778",
+			"Assets": [
+				"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C524F49414E66650BB0AB6BABAC90E30DC5E4106",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Enemies/t_potenemy_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F9F504FA65515C097A073B3B2D80C4048A78A043",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/m_burnhole.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B7F0130CCB0D5F49C932F6BB05DBF4BC451202A4",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/Fire_material_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1A423D865A914AA7A5B4F5A76CE9768E809F7C4B",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/White.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6F8EF4F87401A617D0E4EF31A34EEFB164561CF9",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/Geometry/Meshes/CubeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C1DBB6104D75ACCE79EABEC0FACFD04F83CAE32C",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Player/lambert1.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Enemies/14_-_Polished_Aluminum.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "61820F85FAE1BF0AC38F2AC7341F8F40CD281CC0",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Player/Main_Character_Diffuse_Map_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D7A1E65D7349C1E811FD339D9BAF67C40FC4B369",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/popcorn_-_Full_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "305876DDE98ED3F70CD913C6DC03AECB0ADEF111",
+			"Assets": [
+				"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C92718D34CCFAD560C9ED69DA251AA6FA6732D7F",
+			"Assets": [
+				"../../Plugins/Enterprise/DatasmithContent/Content/Materials/AliasMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B7CDD3C33C665EFC622A505104DFA89CA4A29888",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/t_track_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BE6671992406E6AA4A2FDFEFA90DBFCD67E61E10",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/Film_reel2.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Window_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Surgery_sign_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Segway_logo_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Segway_Green_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Road_Tarmac_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Proud_sign_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Pavement_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/new_window_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Green_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Carpark_floor_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Brown_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Bin_Grey_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Windows_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Costsalot_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Bacchus_sign_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Red_fruit_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Oranges_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Mural_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Market_Roof_2_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Market_Roof_1_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Fish_Grey_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Blue_Building_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Black_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Bank_Sign_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Apples_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Building_acc_2_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Bench_Decal_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Nahbros_logo_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Cineworld_logo_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Chorizo_logo_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Burger_Pope_Sign_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Local_Store_Sign_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Kebab_house_sign_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Insurance_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Frame_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Cone_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Untitled-1_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Spitfire_Sign_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/road_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Orange_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Oatcakes_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Walls_supermarket_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Torch_Light_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Supermarket_walls_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Supermarket_floor_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/lyle_and_luke_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Kyles_Cola_logo_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Grey_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Flour_Packet_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Floor_Bridge_Texture_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/digestive_red_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Digestives_logo_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Brown_tree_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Bin_Decal_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/Film_reel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9DA0101D4BBE5514B64EA922DD25C8B01C9917B5",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/Red.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E042CB4DA4B8C8DB1816A30514166C485B6D62EA",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "88294A41972AD9158F31CDEFCE98F41562A51D8E",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/Floor_texture_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Modules/ModuleTextures/wall_texture_Mat.uasset",
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/t_platform_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D0C775E4FCF06F081FF8D1B846644A8C633A2B70",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Meshes/CubeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "91842AAF6F07CAD8704AC880E36674E646A1C171",
+			"Assets": [
+				"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FA620A2A7C5618C739BCF8095ADCCEB528BDD9F3",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Material/ShinyMetal.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CE1AB4776086103B29611FCA38F211834F89EAC6",
+			"Assets": [
+				"../../Plugins/FX/Niagara/Content/DefaultAssets/M_Gnomon.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "359AF6E7ED2836B47D3185F8C9DEBE55BB0DB7CB",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/lambert1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EF77233BD05DACC3A3A736A1B62DB32CC9DB66C7",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Meshes/Material__3314.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EB8387A8B3A954DDB37FDB735BD645A09F98DEE0",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/SideScrollerBP/Team777/Intro/TeamLogo_Video_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "98419F6E72FFA7C8C99DB75BE3FF982483427D94",
+			"Assets": [
+				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8531A64E0C159DA8A0EA744E244F3B608FEFEA9E",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FEE446870BC10011A77B2AAA80EEC5537865F8A8",
+			"Assets": [
+				"../../../../../../Users/conta/Documents/GitHub/Team777-VI/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset"
+			]
+		}
+	]
+}
